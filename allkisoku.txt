@@ -1,0 +1,1378 @@
+<li class="sp-fix nav02"><a href="/department/" class="accordion">2015年度までの学部・大学院</a>
+<ul class="sp-fix ac-contents">
+<li class="ct-link-top"><a href="/department/" title="学部・大学院トップページ">学部・大学院トップページ</a>
+<dl class="inner">
+<dt>学部</dt>
+<dd>
+<ul>
+<li><a href="/department/ie/" title="情報理工学部の紹介（情報理工学部）">情報理工学部</a></li>
+<li><a href="/department/ie_evening/index.html" title="情報理工学部(夜間主）の紹介（情報理工学部（夜間主課程））">情報理工学部（夜間主課程）</a></li>
+<!--<li><a href="/department/ec/" title="電気通信学部の紹介（電気通信学部（募集停止） ）">電気通信学部（募集停止） </a></li>-->
+</ul>
+</dd>
+<dt>大学院</dt>
+<dd>
+<ul>
+<li><a href="/department/ie_graduate/index.html" title="情報理工学研究科の紹介（情報理工学研究科）">情報理工学研究科</a></li>
+<li><a href="/department/is/" title="情報システム学研究科の紹介（情報システム学研究科）">情報システム学研究科</a></li>
+<!--<li><a href="/department/ec_graduate/" title="電気通信学研究科の紹介（電気通信学研究科（募集停止））">電気通信学研究科（募集停止）</a></li>-->
+<li><a href="/department/super-daigakuin/">連携大学院</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</li>
+<li class="nav03"><a href="/facilities/" class="accordion">図書館・教育研究センター</a>
+<ul class="sp-fix ac-contents">
+<li><a href="/facilities/" title="図書館・教育研究センタートップページ">図書館・教育研究センタートップページ</a></li>
+<li><a href="/facilities/information/library/" title="附属図書館（図書館・ミュージアム）">図書館・ミュージアム</a></li>
+<li><a href="/facilities/life/education/" title="大学教育センター（教育・学生生活に関する機関）">教育・学生生活に関する機関</a></li>
+<li><a href="/facilities/research/" title="研究センター 一覧（研究・産学官連携に関する機関）">研究・産学官連携に関する機関</a></li>
+<li><a href="/facilities/exchange/cipe/">交流機関・施設</a></li>
+<li><a href="/facilities/etc/evaluation/" title="評価室（その他組織）">その他組織</a></li>
+<li><a href="/facilities/satellite-office/yrp/" title="横須賀リサーチパーク（サテライトオフィス）">サテライトオフィス</a></li>
+<li><a href="/facilities/faq/" title="施設利用に関する質問（よくある質問）">よくある質問</a></li>
+</ul>
+</li>
+<li class="nav04"><a href="/campus/" class="accordion">教育・学生生活</a>
+<ul class="sp-fix ac-contents">
+<li><a href="/campus/" title="教育・学生生活トップページ">教育・学生生活トップページ</a></li>
+<li><a href="/campus/academic/" title="教務情報">教務情報</a></li>
+<li><a href="/campus/fee/" title="授業料・奨学金等">授業料・奨学金等</a></li>
+<li><a href="/campus/welfare/" title="生活支援・福利厚生">生活支援・福利厚生</a></li>
+<li><a href="/campus/extracurricular/" title="課外活動">課外活動</a></li>
+<li><a href="/campus/event/" title="大学イベント">大学イベント</a></li>
+<li><a href="/campus/consultation/" title="相談窓口">相談窓口</a></li>
+<li><a href="/campus/questionnaire/questionnaire01.html" title="学生アンケート">学生アンケート</a></li>
+<li><a href="/campus/committee/" title="後援会">後援会</a></li>
+<li><a href="/campus/faq/" title="よくある質問">よくある質問</a></li>
+</ul>
+</li>
+<li class="nav05"><a href="/career/" class="accordion">就職・進路</a>
+<ul class="sp-fix ac-contents">
+<li><a href="/career/" title="就職・進路トップページ">就職・進路トップページ</a></li>
+<li><a href="/career/support/" title="本学の就職支援体制（就職支援）">就職支援</a></li>
+<li><a href="/career/career/" title="キャリア教育（キャリア支援）">キャリア支援</a></li>
+<li><a href="/career/contact/" title="インターンシップ受け入れ（求人受付）">求人受付</a></li>
+<li><a href="/career/career_path/" title="進路・就職状況（卒業・修了後の進路）">卒業・修了後の進路</a></li>
+<li><a href="/career/license/" title="取得可能免許・資格（資格取得）">資格取得</a></li>
+<li><a href="/career/procedure/" title="卒業証明書の申請方法（卒業生の諸手続き）">卒業生の諸手続き</a></li>
+<li><a href="/career/association/" title="社団法人目黒会（電気通信大学同窓会）">電気通信大学同窓会</a></li>
+</ul>
+</li>
+<li class="nav06"><a href="/research/" class="accordion">研究・産学連携</a>
+<ul class="sp-fix ac-contents">
+<li><a href="/research/" title="研究・産学連携トップページ">研究・産学連携トップページ</a></li>
+<li><a href="/research/activity/project/" title="競争的資金に採択された研究プロジェクト（研究活動）">研究活動</a></li>
+<li><a href="/research/information/search.html" title="研究者情報総覧（研究者情報）">研究者情報 </a></li>
+<li><a href="/research/support/system/" title="研究・教育活性化支援システム（研究支援制度）">研究支援制度</a></li>
+<li><a href="/research/alliance-system/research/" title="共同研究・受託研究（産学官連携制度）">産学官連携制度</a></li>
+<li><a href="/research/alliance-activity/" title="産学官連携DAY in 電通大（産学官連携活動 ）">産学官連携活動 </a></li>
+<li><a href="/research/venture/" title="創業支援（ベンチャー支援）">ベンチャー支援</a></li>
+<li><a href="/research/property/" title="創出活動（知的財産活動）">知的財産活動</a></li>
+<li><a href="/research/software/" title="ソフトウェアの活用">ソフトウェアの活用</a></li>
+<li><a href="/research/coi/">利益相反マネジメント</a></li>
+<li><a href="/research/request/">依頼測定</a></li>
+<li><a href="/research/contact/">お問い合わせ</a></li>
+</ul></li>
+<li class="nav07"><a href="/exchange/" class="accordion">地域交流・国際交流</a>
+<ul class="sp-fix ac-contents">
+<li class="ct-link-top"><a href="/exchange/" title="地域交流・国際交流">地域交流・国際交流トップページ</a>
+<dl class="inner">
+<dt>地域交流</dt>
+<dd>
+<ul>
+<li><a href="/exchange/education/choufu.html" title="調布少年少女発明クラブ（科学教育事業）">科学教育事業</a></li>
+<li><a href="/exchange/area/volunteer.html" title="ボランティア活動（地域交流事業）">地域交流事業</a></li>
+<li><a href="/exchange/extension/" title="公開講座（生涯学習）">生涯学習</a></li>
+</ul>
+</dd>
+<dt>国際交流</dt>
+<dd>
+<ul>
+<li><a href="/exchange/abroad/student.html" title="留学生支援（留学生・外国人研究者支援）">留学生・外国人研究者支援</a></li>
+<li><a href="/exchange/international/dispatch.html" title="派遣留学（学生の国際化支援）">学生の国際化支援</a></li>
+<li><a href="/exchange/short/short-program.html" title="短期留学プログラム（短期留学生の支援）">短期留学生の支援</a></li>
+<li><a href="/exchange/global/kmitl.html" title="KMITL-UECサマートレーニングプログラム（国際交流事業）">国際交流事業</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</li>
+<li class="nav08"><a href="/admission/" class="accordion">入試案内</a>
+<ul class="sp-fix ac-contents">
+<li class="ct-link-top"><a href="/admission/" title="入試案内トップページ">入試案内トップページ</a>
+<dl class="inner">
+<dt>学部</dt>
+<dd>
+<ul>
+<li><a href="/admission/ie/policy.html" title="アドミッションポリシー（情報理工学域）">情報理工学域</a> </li>
+<li><a href="/admission/ie_evening/policy.html" title="アドミッションポリシー（情報理工学域（夜間主課程））">情報理工学域（夜間主課程）</a> </li>
+<li><a href="/admission/ie/special-transfer/policy.html" title="アドミッションポリシー（情報理工学部（特別編入学））">情報理工学部（特別編入学）</a> </li>
+<li><a href="/admission/open-department/opencampus/" title="学部オープンキャンパス（オープンキャンパス・進学説明会）">オープンキャンパス・進学説明会</a> </li>
+<li><a href="/admission/lecture/" title="出張講義">出張講義</a> </li>
+</ul>
+</dd>
+
+<dt>大学院</dt>
+<dd>
+<ul>
+<li><a href="/admission/ie_graduate/policy.html" title="アドミッションポリシー（情報理工学研究科）">情報理工学研究科</a> </li>
+<!--<li><a href="/admission/is/policy.html" title="アドミッションポリシー（情報システム学研究科）">情報システム学研究科</a> </li>-->
+<li><a href="/admission/open-graduate/" title="大学院オープンラボ・入試説明会">大学院オープンラボ・入試説明会 </a> </li>
+</ul>
+</dd>
+<dt>その他の入学制度</dt>
+<dd>
+<ul>
+<li class="firstChild lastChild"><a href="/admission/etc-system/" title="研究生（特別学生（研究生・科目等履修生））">特別学生（研究生・科目等履修生）</a> </li>
+</ul>
+</dd>
+<dt>合格発表等</dt>
+<dd>
+<ul>
+<li><a href="http://nyushi.office.uec.ac.jp/pass/index.html" title="学部・大学院 合格発表（合格発表）">合格発表</a></li>
+<li><a href="/admission/faq/" title="入試に関する質問（よくある質問）">よくある質問</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</li>
+</ul>
+</dd>
+</dl>
+
+<dl id="visitorNav">
+<dt>訪問者別メニュー</dt>
+<dd>
+<ul>
+<li class="prospect"><a href="/prospect/">受験生の方</a></li>
+<li class="students"><a href="/students/">在学生の方</a></li>
+<li class="alumni"><a href="/alumni/">卒業生の方</a></li>
+<li class="corpo"><a href="/corpo/">企業・研究機関の方</a></li>
+<li class="public"><a href="/public/">一般の方</a></li>
+<li class="english"><a href="/eng/">English</a></li>
+</ul></dd>
+</dl>
+
+
+<!--201710-->
+<style>
+header{
+	/*height: 160px;201710*/
+}
+.kifu{position: absolute;
+    margin: 0;
+    top:42px;
+    right: 0;
+	}
+.kifu a{background:#4fb590;padding:4px 10px;
+color:#fff;
+	font-size:15px;line-height:1;
+}
+.kifu a span{
+	background: url(/images_rwd/kifu_arrow.png) no-repeat left center;
+	padding-left:16px;
+	}
+	
+@media all and (-ms-high-contrast:none){
+	.kifu a{background:#4fb590;padding:4px 10px 2px 10px;
+}
+.kifu a span{
+	padding-top:2px;
+	}
+}
+	
+dl.functionNav {
+	top: 76px!important;
+	}
+</style>
+<!--<p class="kifu pc-fix"><a href="/kikin/message/"><span>寄付のお願い</span></a></p>
+--><!--/201710-->
+
+
+
+
+<dl class="functionNav pc-fix">
+<dt>サブメニュー</dt>
+<dd>
+<ul>
+<li class="nav01"><a href="/">大学ホーム</a></li>
+<li class="nav02"><a href="/about/profile/access/">交通・学内マップ</a></li>
+<li class="nav03"><a href="/inquiry/">お問い合わせ</a></li>
+<li class="nav04"><a href="/request/">入試資料請求</a></li>
+<li class="nav05"><a href="/sitemap/">サイトマップ</a></li>
+</ul>
+</dd>
+</dl>
+
+<dl class="functionNav sp-fix">
+<dt>スマートフォン用サブメニュー</dt>
+<dd>
+<ul>
+<li class="nav01"><a href="/about/profile/access/">交通・学内マップ</a></li>
+<li class="nav02"><a href="/inquiry/">お問い合わせ</a></li>
+<li class="nav03"><a href="/request/">入試資料請求</a></li>
+<li class="nav04"><a href="/sitemap/">サイトマップ</a></li>
+<li class="nav05"><a href="/help/about/">このサイトについて</a></li>
+<li class="nav06"><a href="/privacy/">プライバシーポリシー</a></li>
+</ul>
+</dd>
+</dl>
+
+<dl class="search">
+<dt>サイト内検索</dt>
+<dd>
+<form action="/search/" id="uec-search-box"> 
+<input name="q" type="text" size="40" class="search-input" /> 
+<input name="sa" type="image" id="btn" src="/common_rwd/images/btn_search.gif" class="imgover pc-fix" alt="検索" />
+<input name="sa" type="submit" id="btn_sp" class="sp-fix" value="検索" />
+<input type="hidden" name="cx" value="015592353075022987434:6cbgjaliv4s" /> 
+<input type="hidden" name="cof" value="FORID:11" /> 
+<input type="hidden" name="ie" value="UTF-8" /> 
+<script type="text/javascript" src="/js_rwd/csessl.js"></script> 
+<!--<script type="text/javascript" src="https://www.google.com/cse/brand?form=uec-search-box&amp;lang=ja"></script>
+--></form>
+</dd>
+</dl>
+</div>
+
+<dl class="spHeaderNav sp-fix">
+<dt>スマートフォン用メニュー</dt>
+<dd>
+<ul>
+<li class="nav01"><a href="/about/profile/access/">交通アクセス</a></li>
+<li class="nav02"><a href="/inquiry/">お問い合わせ</a></li>
+<li class="nav03"><a href="/request/">入試資料請求</a></li>
+<li class="nav04"><a href="/sitemap/">サイトマップ</a></li>
+<li class="nav05"><a href="/eng/">English</a></li>
+</ul>
+</dd>
+</dl>
+</nav>
+
+<!-- /header --></header>
+
+<div id="main">
+<div class="helpNav">
+<p><a id="contentTop"></a>ここから本文です</p>
+</div>
+<!-- ▼パンくずリスト start -->
+<nav id="topicpath">
+<h2>サイト内の現在位置</h2>
+<ol>
+	<li><a href="/">大学ホーム</a></li>
+	<li><a href="/about/">大学案内</a></li>
+	<li>大学基本情報│規則集</li>
+</ol>
+</nav>
+<!-- ▲／パンくずリスト end -->
+
+
+<!-- ▼メインビジュアル start -->
+<div id="catVisual">
+<h1 class="catTtl about"><span><span class="ttlC">大学案内</span><span class="ttlM">大学基本情報</span></span></h1>
+<!-- /#catVisual --></div>
+<!-- ▲／メインビジュアル end -->
+
+
+<div id="primary">
+<!-- ▼コンテンツ start -->
+<article class="section">
+<div class="pageTtl">
+<h2>規則集</h2>
+
+<div class="pc-fix">
+<script>
+<!--
+printThis（）;
+//-->
+</script>
+<noscript><p class="print">印刷機能を使用する場合はJavaScriptを有効にしてください。</p></noscript>
+<!-- /.pc-fix --></div>
+<!-- /.pageTtl --></div>
+
+
+<div class="section first">
+
+<p>本学では、規則等を以下のように定めています。</p>
+<div class="rule">
+<ul class="stepNav03">
+<li class="clearfix">
+  <ul>
+    <li><a href="#p01">第1編 基本規則<!--学則--></a></li>
+    <li><a href="#p02">第2編 管理・運営</a></li>
+    <li><a href="#p03">第3編 事務組織</a></li>
+  </ul>
+</li>
+<li class="clearfix">
+  <ul>
+    <li><a href="#p04">第4編 総務</a></li>
+    <li><a href="#p05">第5編 人事</a></li>
+    <li><a href="#p06">第6編 財務</a></li>
+  </ul>
+</li>
+<li class="clearfix">
+  <ul>
+    <li><a href="#p07">第7編 施設</a></li>
+    <li><a href="#p08">第8編 研究協力</a></li>
+    <li><a href="#p09">第9編 教務</a></li>
+  </ul>
+</li>
+<li class="clearfix">
+  <ul>
+    <li><a href="#p10">第10編 学生</a></li>
+    <li><a href="#p11">第11編 部局</a></li>
+  </ul>
+</li>
+</ul>
+<!-- /.rule --></div>
+
+
+<div id="p01" class="section">
+<h2 class="hdTxt01-01"><span>第1編 基本規則<!--学則--></span></h2>
+
+<ul class="linkList01">
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009A006.pdf" target="_blank">国立大学法人電気通信大学組織規則（PDF：255KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004A001.pdf" target="_blank">電気通信大学学則<!--国立大学法人電気通信大学学則-->（PDF：428KB）</a></li>
+</ul>
+<!-- /.sectionH2 --></div>
+
+<div id="p02" class="section">
+<h2 class="hdTxt01-01"><span>第2編 管理・運営</span></h2>
+
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B001.pdf" target="_blank">国立大学法人電気通信大学役員会規程（PDF：56KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B002.pdf" target="_blank">国立大学法人電気通信大学経営協議会規程（PDF：68KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B003.pdf" target="_blank">国立大学法人電気通信大学教育研究評議会規程（PDF：132KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2008D001.pdf" target="_blank">国立大学法人電気通信大学拡大役員会要項（PDF：66KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B004.pdf" target="_blank">国立大学法人電気通信大学学長選考・監察会議規程（PDF：73KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2005B007.pdf" target="_blank">国立大学法人電気通信大学学長選考等規程（PDF：79KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99992C001.pdf" target="_blank">国立大学法人電気通信大学学長選考等実施細則（PDF：170KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B022.pdf" target="_blank">国立大学法人電気通信大学学長任期規程（PDF：9KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B023.pdf" target="_blank">国立大学法人電気通信大学理事規程（PDF：77KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99992D003.pdf" target="_blank">国立大学法人電気通信大学監事会要項（PDF：52KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B017.pdf" target="_blank">国立大学法人電気通信大学監事監査規程（PDF：82KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C004.pdf" target="_blank">国立大学法人電気通信大学監事監査実施細則（PDF：9KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B048.pdf" target="_blank">電気通信大学副学長規程（PDF：56KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B049.pdf" target="_blank">電気通信大学学長補佐規程（PDF：38KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B034.pdf" target="_blank">国立大学法人電気通信大学学長特別補佐設置規程（PDF：43KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B053.pdf" target="_blank">国立大学法人電気通信大学学長顧問規程（PDF：41KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B016.pdf" target="_blank">国立大学法人電気通信大学学術院規程（PDF：71KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99992C003.pdf" target="_blank">国立大学法人電気通信大学学術院幹事会細則（PDF：47KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B017.pdf" target="_blank">国立大学法人電気通信大学学術院教育研究技師部運営委員会規程（PDF：9KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99992C004.pdf" target="_blank">電気通信大学学術院教育研究技師部共通業務企画専門委員会細則（PDF：9KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2005B001.pdf" target="_blank">電気通信大学評価室規程（PDF：55KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2006B028.pdf" target="_blank">電気通信大学評価規程（PDF：120KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2020B044.pdf" target="_blank">国立大学法人電気通信大学における内部質保証に関する規程（PDF：132KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2008B010.pdf" target="_blank">国立大学法人電気通信大学内部監査室規程（PDF：86KB）</a></li>
+<!--2023.09.13削除><!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/99992B022.pdf" target="_blank">電気通信大学環境保全室規程（PDF：70KB）</a></li>-->
+<!--2022.04.01削除<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010C031.pdf" target="_blank">電気通信大学安全・環境保全室薬品管理部門設置細則（PDF：64KB）</a></li>-->
+
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B091.pdf" target="_blank">電気通信大学研究活性化推進室規程（PDF：58KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B060.pdf" target="_blank">電気通信大学研究戦略推進室規程（PDF：56KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B061.pdf" target="_blank">電気通信大学国際戦略推進室規程（PDF：58KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B062.pdf" target="_blank">電気通信大学男女共同参画・ダイバーシティ戦略推進室規程（PDF：65KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B064.pdf" target="_blank">電気通信大学ＩＲ室規程（PDF：58KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B063.pdf" target="_blank">電気通信大学ＩＲ推進規程（PDF：57KB）</a></li>
+
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D002.pdf" target="_blank">国立大学法人電気通信大学企画調査室設置要項（PDF：36KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2020B031.pdf" target="_blank">電気通信大学D.C.&amp;I.戦略推進会議規程（PDF：48KB）</a></li>
+<!--2022.05.10廃止 <li class="pdf"><a href="/about/basicinfo/rule/pdf/2011B059.pdf" target="_blank">電気通信大学総合コミュニケーション科学推進機構規程（PDF：50KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011B061.pdf" target="_blank">電気通信大学総合コミュニケーション科学推進室規程（PDF：115KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2008D002.pdf" target="_blank">国立大学法人電気通信大学部局長等連絡協議会要項（PDF：134KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99992G001.pdf" target="_blank">教育研究センター等の運営に関する申合せ（PDF：134KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B018.pdf" target="_blank">国立大学法人電気通信大学教員系人事調整委員会規程（PDF：10KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B019.pdf" target="_blank">国立大学法人電気通信大学事務系人事調整委員会規程（PDF：43KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B001.pdf" target="_blank">電気通信大学施設活用調整委員会規程（PDF：49KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B006.pdf" target="_blank">電気通信大学安全・衛生委員会規程（PDF：147KB）</a></li>
+<!--2022.04.01削除 <li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C001.pdf" target="_blank">電気通信大学安全・衛生委員会専門部門細則（PDF：66KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2013B006.pdf" target="_blank">電気通信大学放射線安全管理委員会規程（PDF：127KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B065.pdf" target="_blank">電気通信大学情報セキュリティ委員会規程（PDF：56KB）</a></li>
+
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99992B025.pdf" target="_blank">国立大学法人電気通信大学情報公開・個人情報保護委員会規程（PDF：67KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2020B022.pdf" target="_blank">電気通信大学大学入学共通テスト実施委員会規程（PDF：52KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2018B061.pdf" target="_blank">電気通信大学入試問題検証委員会規程（PDF：61KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B014.pdf" target="_blank">電気通信大学利益相反マネジメント委員会規程（PDF：69KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019B037.pdf" target="_blank">国立大学法人電気通信大学基金に関する規程（PDF：57KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019B038.pdf" target="_blank">国立大学法人電気通信大学UEC基金規程（PDF：54KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019B039.pdf" target="_blank">国立大学法人電気通信大学学資支援基金規程（PDF：65KB）</a></li>
+	<!-- 2020.11.30 new --><li class="pdf"><a href="/about/basicinfo/rule/pdf/2020B025.pdf" target="_blank">国立大学法人電気通信大学若手研究者未来基金規程（PDF：46KB）</a></li><!-- 2020.11.30 new -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019B040.pdf" target="_blank">国立大学法人電気通信大学現物資産活用基金規程（PDF：840KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019B041.pdf" target="_blank">国立大学法人電気通信大学基金運営委員会規程（PDF：65KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/99992B026.pdf" target="_blank">電気通信大学創立80周年記念学術交流基金規程（PDF：10KB）</a></li>-->
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/99992B027.pdf" target="_blank">電気通信大学創立80周年記念学術交流基金運用委員会規程（PDF：67KB）</a></li>-->
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011B052.pdf" target="_blank">国立大学法人電気通信大学基金規程（PDF：81KB）</a></li>-->
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011B057.pdf" target="_blank">国立大学法人電気通信大学基金事務局規程（PDF：42KB）</a></li>-->
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011C019.pdf" target="_blank">国立大学法人電気通信大学基金運営委員会細則（PDF：10KB）</a></li>-->
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012B122.pdf" target="_blank">電気通信大学シニアサポーター規程（PDF：66KB）</a></li>-->
+
+
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/99992B029.pdf" target="_blank">電気通信大学男女共同参画推進本部規程（PDF：68KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99992C007.pdf" target="_blank">電気通信大学男女共同参画推進本部ワーキンググループ設置細則（PDF：8KB）</a></li>-->
+
+
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012B116.pdf" target="_blank">電気通信大学オープンキャンパス実施本部規程（PDF：123KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021B021.pdf" target="_blank">電気通信大学カーボンニュートラル推進本部規程（PDF：67KB）</a></li><!--2021.09.28 -->
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B098.pdf" target="_blank">電気通信大学エコキャンパス推進本部規程（PDF：57KB）</a></li>-->
+<!--2017.03.10 -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B103.pdf" target="_blank">電気通信大学100周年キャンパス運営本部規程（PDF：72KB）</a></li>
+<!-- 2017.03.10-->
+<!-- <li class="pdf"><a href="/about/basicinfo/rule/pdf/2012B002.pdf" target="_blank">電気通信大学小島町地区再開発本部規程（PDF：66KB）</a></li> 
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2013B014.pdf" target="_blank">電気通信大学100周年キャンパスマネジメント推進室規程（PDF：55KB）</a></li> -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B001.pdf" target="_blank">電気通信大学100周年キャンパス基本規程（PDF：69KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016D001.pdf" target="_blank">電気通信大学100周年キャンパス共同研究施設入居予定者選考のための要項（PDF：64KB）</a></li>-->
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015B003.pdf" target="_blank">電気通信大学創立100周年記念事業実施本部規程（PDF：55KB）</a></li>-->
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012C023.pdf" target="_blank">電気通信大学創立100周年記念事業専門委員会細則（PDF：57KB）</a></li>-->
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011B058.pdf" target="_blank">国立大学法人電気通信大学創立100周年記念事業推進室規程（PDF：11KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011B062.pdf" target="_blank">電気通信大学保育施設規程（PDF：102KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011B063.pdf" target="_blank">電気通信大学保育施設運営委員会規程（PDF：48KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011C020.pdf" target="_blank">電気通信大学保育施設保護者連絡会細則（PDF：45KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016D006.pdf" target="_blank">電気通信大学託児室使用要項（PDF：57KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015D002.pdf" target="_blank">電気通信大学職員病児・病後児等保育支援事業実施要項（PDF：61KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019B008.pdf" target="_blank">電気通信大学UEC国際アンバサダー規程（PDF：73KB）</a></li>
+</ul>
+<ul class="toPageTop">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+</ul>
+<!-- /.sectionH2 --></div>
+
+
+<div id="p03" class="section">
+<h2 class="hdTxt01-01"><span>第3編 事務組織</span></h2>
+
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99993B001.pdf" target="_blank">国立大学法人電気通信大学事務組織規程（PDF：221KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012C025.pdf" target="_blank">国立大学法人電気通信大学事務分掌細則（PDF：241KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99993D001.pdf" target="_blank">電気通信大学事務連絡会議要項（PDF：107KB）</a></li>
+</ul>
+
+<ul class="toPageTop">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+</ul>
+<!-- /.sectionH2 --></div>
+
+
+<div id="p04" class="section">
+<h2 class="hdTxt01-01"><span>第4編 総務</span></h2>
+
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B103.pdf" target="_blank">国立大学法人電気通信大学における内部統制に関する規程（PDF：136KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2007B001.pdf" target="_blank">国立大学法人電気通信大学コンプライアンス規程（PDF：74KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2006B024.pdf" target="_blank">国立大学法人電気通信大学公益通報者保護規程（PDF：108KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B088.pdf" target="_blank">国立大学法人電気通信大学危機管理規程（PDF：78KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011C007.pdf" target="_blank">国立大学法人電気通信大学防災対策検討専門委員会設置細則（PDF：122KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015B035.pdf" target="_blank">国立大学法人電気通信大学における障害を理由とする差別の解消の推進に関する規程（PDF：150KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B089.pdf" target="_blank">国立大学法人電気通信大学情報システム運用基本規程（PDF：243KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021B011.pdf" target="_blank">国立大学法人電気通信大学情報セキュリティ監査規程（PDF：77KB）</a></li><!--2021.09.28 -->	
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016C031.pdf" target="_blank">国立大学法人電気通信大学情報の格付け及び取扱制限に関する細則（PDF：145KB）</a></li>
+	<!-- 2022.06.23 new -->	
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2022D005.pdf" target="_blank">電気通信大学におけるUECアカウントの取扱いに関する要項（PDF：130KB）</a></li>
+	<!-- 2022.06.23 new -->	
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/99994A001.pdf" target="_blank">国立大学法人電気通信大学規則等の制定に関する規則（PDF：60KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99994B005.pdf" target="_blank">国立大学法人電気通信大学規則等の制定に関する規程（PDF：126KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B124.pdf" target="_blank">国立大学法人電気通信大学法人文書管理規程（PDF：238KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010C033.pdf" target="_blank">国立大学法人電気通信大学法人文書管理細則（PDF：363KB）</a></li>--><!-- 2021.04.02削除 -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99994C005.pdf" target="_blank">国立大学法人電気通信大学文書処理細則（PDF：311KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99994B007.pdf" target="_blank">国立大学法人電気通信大学公印管理規程（PDF：182KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99994D002.pdf" target="_blank">国立大学法人電気通信大学職員証取扱要項（PDF：116KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99994B008.pdf" target="_blank">国立大学法人電気通信大学個人情報保護規程（PDF：221KB）</a></li>
+	
+	<!--2022.04.01新規　-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021B067.pdf" target="_blank">国立大学法人電気通信大学保有個人情報開示等請求取扱規程（PDF：123KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021B068.pdf" target="_blank">国立大学法人電気通信大学における行政機関等匿名加工情報取扱規程（PDF：79KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021E001.pdf" target="_blank">国立大学法人電気通信大学における仮名加工情報及び行政機関等匿名加工情報の作成の方法に関する基準（PDF：84KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021B069.pdf" target="_blank">国立大学法人電気通信大学個人番号関係事務実施規程（PDF：201KB）</a></li>
+	<!--2022.04.01新規 -->
+	
+<!--2022.04.01削除<li class="pdf"><a href="/about/basicinfo/rule/pdf/99994C001.pdf" target="_blank">国立大学法人電気通信大学保有個人情報管理細則（PDF：164KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015D004.pdf" target="_blank">国立大学法人電気通信大学特定個人情報取扱要項（PDF：230KB）</a></li> -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99994E003.pdf" target="_blank">国立大学法人電気通信大学の保有する個人情報の開示決定等に係る審査基準（PDF：208KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99994B009.pdf" target="_blank">国立大学法人電気通信大学情報公開取扱規程（PDF：287KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99994E001.pdf" target="_blank">国立大学法人電気通信大学情報公開に関する開示・不開示の審査基準（PDF：111KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012D012.pdf" target="_blank">国立大学法人電気通信大学名義使用許可に関する取扱要項（PDF：84KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021B007.pdf" target="_blank">国立大学法人電気通信大学コミュニケーションマーク等に関する規程（PDF：81KB）</a></li><!--2021.09.28 -->
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B103.pdf" target="_blank">国立大学法人電気通信大学コミュニケーションマーク規程（PDF：145KB）</a></li>-->
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010C023.pdf" target="_blank">国立大学法人電気通信大学コミュニケーションマーク使用細則（PDF：71KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B104.pdf" target="_blank">国立大学法人電気通信大学校章規程（PDF：44KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010C024.pdf" target="_blank">国立大学法人電気通信大学校章使用細則（PDF：63KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B105.pdf" target="_blank">国立大学法人電気通信大学スクールカラー規程（PDF：9KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012B117.pdf" target="_blank">国立大学法人電気通信大学印刷物等広告掲載規程（PDF：90KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012C026.pdf" target="_blank">国立大学法人電気通信大学「ウェブサイト」広告掲載細則（PDF：69KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012C027.pdf" target="_blank">国立大学法人電気通信大学「調布電通大どおり」広告掲載細則（PDF：46KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012C028.pdf" target="_blank">国立大学法人電気通信大学「電気通信大学広報誌」広告掲載細則（PDF：46KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012C029.pdf" target="_blank">国立大学法人電気通信大学「うちわ」広告掲載細則（PDF：50KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99994D003.pdf" target="_blank">電気通信大学感謝状贈呈要項（PDF：76KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99994D004.pdf" target="_blank">国立大学法人電気通信大学慶弔等の取扱要項（PDF：52KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99994B010.pdf" target="_blank">国立大学法人電気通信大学自動車運行管理規程（PDF：111KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99994E002.pdf" target="_blank">国立大学法人電気通信大学における運転従事者の選任に関する基準（PDF：8KB）</a></li>
+	<!--2022.04.01新規 -->
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021C015.pdf" target="_blank">国立大学法人電気通信大学構内ロケーション撮影取扱細則（PDF：133KB）</a></li>
+	<!--2022.04.01新規 -->
+</ul>
+
+<ul class="toPageTop">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+</ul>
+<!-- /.sectionH2 --></div>
+
+
+<div id="p05" class="section">
+<h2 class="hdTxt01-01"><span>第5編 人事</span></h2>
+
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004A005.pdf" target="_blank">国立大学法人電気通信大学就業規則（PDF：185KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B029.pdf" target="_blank">国立大学法人電気通信大学職員出向規程（PDF：84KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B031.pdf" target="_blank">国立大学法人電気通信大学職員の休職及び復職に関する規程（PDF：141KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B032.pdf" target="_blank">国立大学法人電気通信大学職員退職規程（PDF：73KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2013C005.pdf" target="_blank">国立大学法人電気通信大学早期退職にかかる細則（PDF：66KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B104.pdf" target="_blank">国立大学法人電気通信大学における準用独立行政法人通則法第50条の6第2号に規定する管理又は監督の地位を定める規程（PDF：42KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B030.pdf" target="_blank">国立大学法人電気通信大学職員兼業規程（PDF：170KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B037.pdf" target="_blank">国立大学法人電気通信大学職員の勤務時間、休暇等に関する規程（PDF：353KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D009.pdf" target="_blank">国立大学法人電気通信大学勤務時間管理員の指定に関する要項（PDF：140KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D010.pdf" target="_blank">電気通信大学職員の休暇承認専決要項（PDF：123KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B038.pdf" target="_blank">国立大学法人電気通信大学職員育児休業等規程（PDF：262KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B039.pdf" target="_blank">国立大学法人電気通信大学職員介護休業規程（PDF：93KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B081.pdf" target="_blank">国立大学法人電気通信大学職員自己啓発等休業規程（PDF：92KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014C025.pdf" target="_blank">国立大学法人電気通信大学在宅勤務細則（PDF：87KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B040.pdf" target="_blank">国立大学法人電気通信大学職員給与規程（PDF：601KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C005.pdf" target="_blank">国立大学法人電気通信大学職員の初任給、昇格、昇給等に関する細則（PDF：611KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2005C004.pdf" target="_blank">職務の級における最高の号給を超える本給月額の切替等に関する細則（PDF：11KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2005C015.pdf" target="_blank">平成18年改正国立大学法人電気通信大学職員給与規程附則第9項から第11項までの規定による本給支給細則（PDF：19KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014C019.pdf" target="_blank">平成27年改正国立大学法人電気通信大学職員給与規程附則第3項から第5項までの規定による本給支給細則（PDF：74KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C006.pdf" target="_blank">国立大学法人電気通信大学本給の調整額支給細則（PDF：152KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C007.pdf" target="_blank">国立大学法人電気通信大学管理職手当支給細則（PDF：170KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C009.pdf" target="_blank">国立大学法人電気通信大学単身赴任手当支給細則（PDF：109KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C010.pdf" target="_blank">国立大学法人電気通信大学特殊勤務手当支給細則（PDF：53KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C011.pdf" target="_blank">国立大学法人電気通信大学超過勤務手当、休日給支給細則（PDF：11KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C012.pdf" target="_blank">国立大学法人電気通信大学管理職員特別勤務手当支給細則（PDF：64KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C013.pdf" target="_blank">国立大学法人電気通信大学初任給調整手当支給細則（PDF：62KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C014.pdf" target="_blank">国立大学法人電気通信大学期末手当及び勤勉手当支給細則（PDF：221KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2020C020.pdf" target="_blank">国立大学法人電気通信大学外部資金獲得貢献手当支給細則（PDF：53KB）</a></li>	
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014C015.pdf" target="_blank">国立大学法人電気通信大学教育研究職員の業績評価に関する細則（PDF：91KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014D001.pdf" target="_blank">国立大学法人電気通信大学教育研究職員の業績評価実施要項（PDF：155KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B020.pdf" target="_blank">国立大学法人電気通信大学年俸制適用職員給与規程（PDF：155KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019C001.pdf" target="_blank">国立大学法人電気通信大学年俸制適用職員給与規程の適用を受ける新年俸制適用職員の基本年俸の決定に関する細則（PDF：56KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014C014.pdf" target="_blank">国立大学法人電気通信大学年俸制適用職員給与規程の適用を受ける改正前年俸制適用職員の基本年俸の決定に関する細則（PDF：95KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B041.pdf" target="_blank">国立大学法人電気通信大学職員退職手当規程（PDF：235KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B021.pdf" target="_blank">国立大学法人電気通信大学年俸制適用職員退職手当規程（PDF：45KB）</a></li>
+<!--2023.06.21 new -->	
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2023B005.pdf" target="_blank">国立大学法人電気通信大学職員表彰規程（PDF：120KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99995B016.pdf" target="_blank">国立大学法人電気通信大学永年勤続者表彰規程（PDF：138KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99995D003.pdf" target="_blank">国立大学法人電気通信大学永年勤続者表彰の実施に関する取扱要項（PDF：118KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B033.pdf" target="_blank">国立大学法人電気通信大学職員解雇規程（PDF：77KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B034.pdf" target="_blank">国立大学法人電気通信大学職員懲戒規程（PDF：102KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011H002.pdf" target="_blank">国立大学法人電気通信大学懲戒処分の指針（PDF：125KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2006E007.pdf" target="_blank">国立大学法人電気通信大学における懲戒処分の公表基準（PDF：10KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B043.pdf" target="_blank">国立大学法人電気通信大学倫理規程（PDF：293KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2005B025.pdf" target="_blank">国立大学法人電気通信大学ハラスメントの防止等に関する規程（PDF：202KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B035.pdf" target="_blank">国立大学法人電気通信大学安全衛生管理規程（PDF：275KB）</a></li>
+	<!-- 2023.11.13new-->
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2023B040.pdf" target="_blank">国立大学法人電気通信大学における治療と仕事の両立支援に関する規程（PDF：137KB）</a></li>
+	<!-- 2023.09.13廃止-->
+	<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021B039.pdf" target="_blank">国立大学法人電気通信大学安全管理室規程（PDF：144KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016C001.pdf" target="_blank">国立大学法人電気通信大学心理的な負担の程度を把握するための検査実施細則（PDF：238KB）</a></li>
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021B070.pdf" target="_blank">国立大学法人電気通信大学における職員の健康情報等取扱規程（PDF：109KB）</a></li><!-- 2022.04.01新規-->
+	<!-- 2023.02.20新規-->
+		<li class="pdf"><a href="/about/basicinfo/rule/pdf/2022B091.pdf" target="_blank">国立大学法人電気通信大学職場復帰支援実施規程（PDF：148KB）</a></li><!-- 2023.02.20新規-->
+	
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2022B032.pdf" target="_blank">電気通信大学化学物質管理規程（PDF：152KB）</a></li>
+<!--2022.07.11削除<li class="pdf"><a href="/about/basicinfo/rule/pdf/99995B019.pdf" target="_blank">電気通信大学毒物及び劇物管理規程（PDF：93KB）</a></li>-->
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010C032.pdf" target="_blank">電気通信大学毒物及び劇物取扱細則（PDF：126KB）</a></li>
+	<!-- 2022.04.01新規-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021B048.pdf" target="_blank">電気通信大学高圧ガス製造施設危害予防規程（PDF：203KB）</a></li>
+	<!-- 2022.04.01新規-->
+		<!-- 2022.12.22新規-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2022B063.pdf" target="_blank">電気通信大学研究用微生物等安全管理規程（PDF：185KB）</a></li>
+	<!-- 2022.12.22新規-->
+	
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B042.pdf" target="_blank">国立大学法人電気通信大学職員法定外補償規程（PDF：16KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012B132.pdf" target="_blank">国立大学法人電気通信大学職員報奨金規程（PDF：51KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99995B055.pdf" target="_blank">電気通信大学職員研修所使用規程（PDF：59KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99995B054.pdf" target="_blank">文部科学省共済組合電気通信大学支部における出納職員等の役職指定及び事務の範囲を定める規程（PDF：59KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B027.pdf" target="_blank">国立大学法人電気通信大学教育研究職員の就業の特例に関する規程（PDF：68KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011G002.pdf" target="_blank">教育研究評議会が行う教育研究職員の審査手続きに関する申合せ（PDF：62KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B020.pdf" target="_blank">国立大学法人電気通信大学教育研究職員の選考に関する規程（PDF：70KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B089.pdf" target="_blank">国立大学法人電気通信大学学長裁量分等教育研究職員の選考に関する規程（PDF：55KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99995E002.pdf" target="_blank">電気通信大学教育研究職員の採用及び昇任のための選考基準（PDF：14KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021C002.pdf" target="_blank">国立大学法人電気通信大学教育研究職員の配置に関する細則（PDF：132KB）</a></li>	
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B028.pdf" target="_blank">国立大学法人電気通信大学教育研究職員の任期に関する規程（PDF：152KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B111.pdf" target="_blank">国立大学法人電気通信大学クロスアポイントメント制度に関する規程（PDF：157KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B085.pdf" target="_blank">国立大学法人電気通信大学テニュア・トラック制に関する規程（PDF：73KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011B049.pdf" target="_blank">電気通信大学テニュア・トラック准教授育成戦略会議規程（PDF：57KB）</a></li> 202110廃止-->
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010C019.pdf" target="_blank">国立大学法人電気通信大学テニュア・トラック教員に関する細則（PDF：46KB）</a></li> 202110廃止-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010C020.pdf" target="_blank">国立大学法人電気通信大学テニュア・トラック教員のテニュア中間評価及びテニュア審査に関する細則（PDF：74KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012G004.pdf" target="_blank">テニュア・トラック准教授及びテニュア・トラック助教のテニュア中間評価及びテニュア審査に関する申合せ（PDF：58KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99995G003.pdf" target="_blank">テニュア・トラック教員に関する申合せ（PDF：63KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011B029.pdf" target="_blank">国立大学法人電気通信大学教育研究技師に関する規程（PDF：73KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011B030.pdf" target="_blank">国立大学法人電気通信大学教育研究技師の選考に関する規程（PDF：77KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021B013.pdf" target="_blank">国立大学法人電気通信大学研究教育マネジメント職員に関する規程（PDF：52KB）</a></li><!--2021.09.28 -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B001.pdf" target="_blank">国立大学法人電気通信大学研究教育マネジメント職員の選考に関する規程（PDF：57KB）</a></li><!--2021.09.28 規則名変更大学リサーチアドミニストレーターから研究教育マネジメント職員 -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2005A007.pdf" target="_blank">国立大学法人電気通信大学特定任期付職員就業規則（PDF：180KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B085.pdf" target="_blank">国立大学法人電気通信大学特定任期付職員の本給に関する規程（PDF：135KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B082.pdf" target="_blank">電気通信大学特任教員に関する規程（PDF：51KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B072.pdf" target="_blank">国立大学法人電気通信大学特任研究員及び特任研究支援員の選考のための審査に関する規程（PDF：43KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99995G002.pdf" target="_blank">特任教員の研究科担当等に関する申合せ（PDF：59KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99995G004.pdf" target="_blank">特任教員の人件費を当該特任教員が獲得した外部資金から支出する場合についての申合せ（PDF：13KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B086.pdf" target="_blank">国立大学法人電気通信大学客員教授及び客員准教授に関する規程（PDF：45KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99995B048.pdf" target="_blank">電気通信大学名誉教授称号授与規程（PDF：76KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99995B049.pdf" target="_blank">電気通信大学特別栄誉教授称号授与規程（PDF：70KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99995B050.pdf" target="_blank">電気通信大学特別客員教授称号授与規程（PDF：81KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012B001.pdf" target="_blank">電気通信大学特命教授に関する規程（PDF：66KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012C001.pdf" target="_blank">電気通信大学特命教授選考等実施細則（PDF：63KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2006A004.pdf" target="_blank">国立大学法人電気通信大学再雇用職員就業規則（PDF：142KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004A006.pdf" target="_blank">国立大学法人電気通信大学非常勤職員就業規則（PDF：213KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B046.pdf" target="_blank">国立大学法人電気通信大学非常勤職員の勤務時間、休暇等に関する規程（PDF：236KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2005B019.pdf" target="_blank">国立大学法人電気通信大学非常勤職員育児休業等規程（PDF：182KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2005B020.pdf" target="_blank">国立大学法人電気通信大学非常勤職員介護休業規程（PDF：83KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B047.pdf" target="_blank">国立大学法人電気通信大学非常勤職員給与規程（PDF：84KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B112.pdf" target="_blank">国立大学法人電気通信大学無期労働契約転換に関する規程（PDF：132KB）</a></li>
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2022B058.pdf" target="_blank">国立大学法人電気通信大学非常勤職員の雇用期間の特例に関する規程（PDF：145KB）</a></li><!-- 2022.11.17新規 -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B077.pdf" target="_blank">電気通信大学非常勤講師に関する規程（PDF：50KB）</a></li>
+<!--2022.05.17削除 <li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B073.pdf" target="_blank">国立大学法人電気通信大学連携教員に関する規程（PDF：50KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B078.pdf" target="_blank">電気通信大学キャリアカウンセラーに関する規程（PDF：55KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B079.pdf" target="_blank">電気通信大学カウンセラーに関する規程（PDF：10KB）</a></li>
+
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2013B017.pdf" target="_blank">電気通信大学女性研究者支援室相談員に関する規程（PDF：50KB）</a></li>-->
+
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B080.pdf" target="_blank">電気通信大学知的財産マネージャーに関する規程（PDF：9KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B081.pdf" target="_blank">電気通信大学産学連携コーディネーターに関する規程（PDF：9KB）</a></li>
+	<!--2022.04.01新設　-->
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021D004.pdf" target="_blank">電気通信大学リサーチアドミニストレーター要項（PDF：41KB）</a></li>
+	<!--2022.04.01新設　-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B083.pdf" target="_blank">電気通信大学UECポスドク研究員に関する規程（PDF：47KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B084.pdf" target="_blank">電気通信大学研究支援推進員に関する規程（PDF：9KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B073.pdf" target="_blank">電気通信大学産学官連携研究員に関する規程（PDF：11KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B072.pdf" target="_blank">電気通信大学非常勤研究員に関する規程（PDF：65KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2023B035.pdf" target="_blank">国立大学法人電気通信大学における日本学術振興会特別研究員の雇用等に関する規程（PDF：132KB）</a></li><!-- 20231002new -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B070.pdf" target="_blank">電気通信大学ティーチング・アシスタントに関する規程（PDF：126KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B071.pdf" target="_blank">電気通信大学リサーチ・アシスタントに関する規程（PDF：122KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B123.pdf" target="_blank">電気通信大学スチューデント・アシスタントに関する規程（PDF：123KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015C012.pdf" target="_blank">電気通信大学学生メンター制度実施細則（PDF：118KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B075.pdf" target="_blank">電気通信大学21世紀COEプログラム研究支援者に関する規程（PDF：14KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B074.pdf" target="_blank">電気通信大学科学研究費補助金研究支援者に関する規程（PDF：46KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B076.pdf" target="_blank">電気通信大学教育研究高度化のための支援体制整備事業研究支援者に関する規程（PDF：13KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B024.pdf" target="_blank">国立大学法人電気通信大学役員報酬規程（PDF：82KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B025.pdf" target="_blank">国立大学法人電気通信大学役員退職慰労金規程（PDF：94KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2005B002.pdf" target="_blank">国立大学法人電気通信大学役員傷害保険規程（PDF：111KB）</a></li>
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2023B001.pdf" target="_blank">国立大学法人電気通信大学の役員から職員への採用に関する規程（PDF：99KB）</a></li>
+</ul>
+
+<ul class="toPageTop">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+</ul>
+<!-- /.sectionH2 --></div>
+
+
+<div id="p06" class="section">
+<h2 class="hdTxt01-01"><span>第6編 財務</span></h2>
+
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004A015.pdf" target="_blank">国立大学法人電気通信大学会計規則（PDF：122KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B056.pdf" target="_blank">国立大学法人電気通信大学会計事務取扱規程（PDF：143KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010C038.pdf" target="_blank">国立大学法人電気通信大学会計責任者の決裁権限の委任に関する細則（PDF：64KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D011.pdf" target="_blank">国立大学法人電気通信大学債権管理事務取扱要項（PDF：174KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2020B055.pdf" target="_blank">国立大学法人電気通信大学資金管理規程（PDF：75KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2020C016.pdf" target="_blank">国立大学法人電気通信大学余裕金運用細則（PDF：159KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2020D014.pdf" target="_blank">電気通信大学資金運用管理委員会要項（PDF：44KB）</a></li>	
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D012.pdf" target="_blank">国立大学法人電気通信大学資金管理運用要項（PDF：81KB）</a></li>
+--><li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D013.pdf" target="_blank">国立大学法人電気通信大学金庫管守要項（PDF：51KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D014.pdf" target="_blank">国立大学法人電気通信大学役員及び職員に対する給与の口座振込実施要項（PDF：59KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010C037.pdf" target="_blank">国立大学法人電気通信大学の勘定科目の設定に関する細則（PDF：8KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B057.pdf" target="_blank">国立大学法人電気通信大学契約事務取扱規程（PDF：148KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99996E001.pdf" target="_blank">国立大学法人電気通信大学が締結する随意契約の公表に関する基準（PDF：8KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B058.pdf" target="_blank">国立大学法人電気通信大学政府調達事務取扱規程（PDF：129KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C016.pdf" target="_blank">国立大学法人電気通信大学における大型設備の調達に関する取扱細則（PDF：80KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010D022.pdf" target="_blank">国立大学法人電気通信大学における物品購入等契約に係る取引停止等の取扱要項（PDF：29KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010D023.pdf" target="_blank">国立大学法人電気通信大学建設工事競争契約参加資格審査要項（PDF：67KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B059.pdf" target="_blank">国立大学法人電気通信大学会計責任者等任免取扱規程（PDF：104KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B060.pdf" target="_blank">国立大学法人電気通信大学資産管理規程（PDF：13KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C017.pdf" target="_blank">国立大学法人電気通信大学物品管理細則（PDF：32KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016D020.pdf" target="_blank">国立大学法人電気通信大学換金性の高い消耗品に関する取扱要項（PDF：48KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C018.pdf" target="_blank">国立大学法人電気通信大学図書管理細則（PDF：20KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015D003.pdf" target="_blank">国立大学法人電気通信大学蔵書点検要項（PDF：68KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99996E003.pdf" target="_blank">電気通信大学附属図書館図書の不用決定基準（PDF：63KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2005D003.pdf" target="_blank">国立大学法人電気通信大学たな卸資産取扱要項（PDF：9KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021D005.pdf" target="_blank">国立大学法人電気通信大学監視カメラ設置・運用要項（PDF：201KB）</a></li><!--2021.09.28 -->	
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99996D006.pdf" target="_blank">電気通信大学防災業務要項（PDF：151KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99996B006.pdf" target="_blank">電気通信大学防火・防災管理規程（PDF：231KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B066.pdf" target="_blank">国立大学法人電気通信大学宿舎管理規程（PDF：27KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C020.pdf" target="_blank">国立大学法人電気通信大学不動産管理細則（PDF：181KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C021.pdf" target="_blank">国立大学法人電気通信大学施設等使用細則（PDF：127KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B061.pdf" target="_blank">国立大学法人電気通信大学旅費規程（PDF：191KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C019.pdf" target="_blank">国立大学法人電気通信大学旅費細則（PDF：197KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014C030.pdf" target="_blank">国立大学法人電気通信大学日額旅費細則（PDF：184KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014C031.pdf" target="_blank">国立大学法人電気通信大学非常勤講師等の旅費細則（PDF：58KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D015.pdf" target="_blank">国立大学法人電気通信大学旅費取扱要項（PDF：357KB）</a></li>
+
+
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004G043.pdf" target="_blank">国立大学法人電気通信大学研究支援者（COE）の授業料等の納入に関する申合せ（PDF：9KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99996G002.pdf" target="_blank">国立大学法人電気通信大学光特別枠留学生に関する申合せ（PDF：9KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D016.pdf" target="_blank">国立大学法人電気通信大学科学研究費補助金等取扱要項（PDF：75KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99996D009.pdf" target="_blank">国立大学法人電気通信大学運営費交付金債務及び授業料債務の収益化等に関する要項（PDF：16KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2007E002.pdf" target="_blank">国立大学法人電気通信大学における競争契約の公表に関する基準（PDF：8KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99996B009.pdf" target="_blank">国立大学法人電気通信大学授業料等徴収規程（PDF：209KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2007B002.pdf" target="_blank">電気通信大学における公的研究費の不正防止の組織体制及び調査の手続き等に関する取扱規程（PDF：226KB）</a></li>
+</ul>
+
+
+<ul class="toPageTop">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+</ul>
+<!-- /.sectionH2 --></div>
+
+
+<div id="p07" class="section">
+<h2 class="hdTxt01-01"><span>第7編 施設</span></h2>
+
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99997B001.pdf" target="_blank">電気通信大学電気工作物保安規程（PDF：901KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99997D001.pdf" target="_blank">電気通信大学薬品庫管理要項（PDF：65KB）</a></li>
+</ul>
+
+<ul class="toPageTop">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+</ul>
+<!-- /.sectionH2 --></div>
+
+
+<div id="p08" class="section">
+<h2 class="hdTxt01-01"><span>第8編 研究協力</span></h2>
+
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99998B001.pdf" target="_blank">電気通信大学寄附講座及び寄附研究部門に関する規程（PDF：100KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2018B059.pdf" target="_blank">電気通信大学共同研究講座に関する規程（PDF：76KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2007B008.pdf" target="_blank">電気通信大学受託研修員受入規程（PDF：71KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99998B003.pdf" target="_blank">電気通信大学外国人受託研修員受入規程（PDF：66KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99998B004.pdf" target="_blank">電気通信大学受託研究員受入規程（PDF：65KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99998B005.pdf" target="_blank">電気通信大学客員研究員等受入規程（PDF：66KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2007B009.pdf" target="_blank">電気通信大学受託研究取扱規程（PDF：92KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99998B007.pdf" target="_blank">電気通信大学と民間等との共同研究規程（PDF：100KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011B016.pdf" target="_blank">電気通信大学学術相談取扱規程（PDF：19KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021B029.pdf" target="_blank">電気通信大学マテリアル先端リサーチインフラ事業規程（PDF：171KB）</a></li><!--20211130新規-->	
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B075.pdf" target="_blank">国立大学法人電気通信大学奨学寄附金取扱規程（PDF：77KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B008.pdf" target="_blank">国立大学法人電気通信大学協賛金取扱規程（PDF：72KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/99998H001.pdf" target="_blank">電気通信大学における21世紀COEプログラム事業担当若手研究者に対する研究活動経費支給要領（PDF：13KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99998B010.pdf" target="_blank">電気通信大学における研究施設の有効活用に関する規程（PDF：56KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009C010.pdf" target="_blank">電気通信大学オープンラボの有効活用に関する細則（PDF：131KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99998D001.pdf" target="_blank">電気通信大学特別研究室設置要項（PDF：9KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99998D002.pdf" target="_blank">電気通信大学研究ステーション設置要項（PDF：55KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99998H003.pdf" target="_blank">電気通信大学研究ステーション設置要項に関する細目（PDF：62KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016C032.pdf" target="_blank">電気通信大学100周年キャンパス共同研究施設使用細則（PDF：145KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016C033.pdf" target="_blank">電気通信大学100周年キャンパス集会室使用細則（PDF：47KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016C034.pdf" target="_blank">電気通信大学100周年キャンパス展示・交流スペース使用細則（PDF：47KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B045.pdf" target="_blank">国立大学法人電気通信大学職員の職務発明等に関する規程（PDF：87KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C015.pdf" target="_blank">国立大学法人電気通信大学発明補償等に関する細則（PDF：15KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011B068.pdf" target="_blank">国立大学法人電気通信大学著作物取扱規程（PDF：110KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011C023.pdf" target="_blank">国立大学法人電気通信大学著作物活用に対する補償金細則（PDF：65KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2006B078.pdf" target="_blank">電気通信大学研究開発成果有体物取扱規程（PDF：81KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009D012.pdf" target="_blank">国立大学法人電気通信大学若手教員海外研究派遣制度実施要項（PDF：72KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99998B009.pdf" target="_blank">電気通信大学遺伝子組換え実験安全管理規程（PDF：193KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011B050.pdf" target="_blank">電気通信大学動物実験等規程（PDF：225KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99998B019.pdf" target="_blank">電気通信大学放射線障害予防規程（PDF：217KB）</a></li>
+	<!-- 2022.04.01新設 -->
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021B047.pdf" target="_blank">電気通信大学エックス線障害防止管理規程（PDF：180KB）</a></li>
+	<!-- 2022.04.01新設 -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2006B077.pdf" target="_blank">電気通信大学における研究活動に係る不正行為の防止等に関する規程（PDF：173KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B113.pdf" target="_blank">国立大学法人電気通信大学安全保障輸出管理規程（PDF：184KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99998B013.pdf" target="_blank">電気通信大学における人を対象とする研究に関する倫理規程<!--電気通信大学ヒトを対象とする実験に関する倫理規程-->（PDF：229KB）</a></li>
+	<!-- 2023.06.21 new -->
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2023B037.pdf" target="_blank">電気通信大学軍事研究及び軍事的安全保障研究に関する規程（PDF：164KB）</a></li><!-- 2023.10.02 new -->
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2023D001.pdf" target="_blank">電気通信大学バイアウト制度実施要項（PDF：71KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2023B036.pdf" target="_blank">電気通信大学UECプライム規程（PDF：48KB）</a></li>
+	<!-- 2023.10.02 new -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99998H004.pdf" target="_blank">定年又は雇用期間を超えて本学の施設等の利用を前提として外部資金等を申請する場合の取扱いについて（PDF：8KB）</a></li>
+</ul>
+
+<ul class="toPageTop">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+</ul>
+<!-- /.sectionH2 --></div>
+
+
+<div id="p09" class="section">
+<h2 class="hdTxt01-01"><span>第9編 教務</span></h2>
+
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015B032.pdf" target="_blank">電気通信大学情報理工学域履修規程（PDF：1.7MB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B048.pdf" target="_blank">電気通信大学情報理工学部履修規程（PDF：1.4MB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/99999B002.pdf" target="_blank">電気通信大学電気通信学部履修規程（PDF：14KB）</a></li>--><!--2019.04.25削除 -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015B033.pdf" target="_blank">電気通信大学情報理工学域再入学に関する規程（PDF：136KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B049.pdf" target="_blank">電気通信大学大学院情報理工学研究科履修規程（PDF：291KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/99999B004.pdf" target="_blank">電気通信大学大学院電気通信学研究科履修規程（PDF：11KB）</a></li>--><!-- 2018-04.26削除 -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B051.pdf" target="_blank">電気通信大学大学院情報理工学研究科再入学に関する規程（PDF：138KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99999B005.pdf" target="_blank">電気通信大学大学院情報システム学研究科履修規程（PDF：356KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B052.pdf" target="_blank">電気通信大学大学院情報システム学研究科再入学に関する規程（PDF：64KB）</a></li>--><!-- 2018-04.26削除 -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99999B006.pdf" target="_blank">電気通信大学学位規程（PDF：157KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009D011.pdf" target="_blank">電気通信大学大学院情報理工学研究科学位審査要項（PDF：91KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/99999D002.pdf" target="_blank">電気通信大学大学院電気通信学研究科学位審査要項（PDF：36KB）</a></li>--><!-- 2018-04.26削除 -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99999D003.pdf" target="_blank">電気通信大学大学院情報システム学研究科学位審査要項（PDF：38KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B053.pdf" target="_blank">電気通信大学休学、復学、退学及び除籍に関する規程（PDF：224KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99999B007.pdf" target="_blank">電気通信大学長期履修規程（PDF：160KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99999B008.pdf" target="_blank">電気通信大学研究生規程（PDF：143KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99999B009.pdf" target="_blank">電気通信大学特別研究学生規程（PDF：133KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99999B010.pdf" target="_blank">電気通信大学派遣学生及び特別聴講学生規程（PDF：138KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99999B011.pdf" target="_blank">電気通信大学科目等履修生規程（PDF：131KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015B010.pdf" target="_blank">電気通信大学短期海外交流学生規程（PDF：127KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019B031.pdf" target="_blank">電気通信大学履修証明プログラム規程（PDF：305KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019C008.pdf" target="_blank">電気通信大学における履修証明プログラムに係る受講料細則（PDF：44KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021B030.pdf" target="_blank">電気通信大学寄附講義規程（PDF：86KB）</a></li><!--20211130新規-->
+<!-- ■令和2年4月1日以降に削除■<li class="pdf><a href="/about/basicinfo/rule/pdf/2016B037.pdf" target="_blank">電気通信大学ウェブシステムデザインプログラムの実施に関する規程（PDF：66KB）</a></li> -->
+<!-- ■令和2年4月1日以降に削除■<li class="pdf><a href="/about/basicinfo/rule/pdf/2016B113.pdf" target="_blank">電気通信大学における履修証明プログラムに関する規程（PDF：148KB）</a></li> -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2007B007.pdf" target="_blank">電気通信大学ファカルティ・ディベロップメント推進規程（PDF：13KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019B032.pdf" target="_blank">電気通信大学アカデミックアドバイザーに関する規程（PDF：46KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021D001.pdf" target="_blank">電気通信大学における国費外国人留学生の優先配置を行う特別プログラム実施要項（PDF：141KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021B033.pdf" target="_blank">電気通信大学次世代研究者挑戦的研究プログラム事業規程（PDF：203KB）</a></li>
+	<!--2022.04.01新設 -->
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021D013.pdf" target="_blank">電気通信大学における学生の通称名の使用に関する要項（PDF：104KB）</a></li>
+	<!--2022.04.01新設 -->
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2022B019.pdf" target="_blank">電気通信大学における連携大学院教育等に関する規程（PDF：140KB）</a></li>
+</ul>
+
+<ul class="toPageTop">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+</ul>
+<!-- /.sectionH2 --></div>
+
+<div id="p10" class="section">
+<h2 class="hdTxt01-01"><span>第10編 学生</span></h2>
+
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/999910B001.pdf" target="_blank">電気通信大学助言教員制度規程（PDF：9KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/999910B002.pdf" target="_blank">電気通信大学学生支援担任規程（PDF：51KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/999910B003.pdf" target="_blank">電気通信大学入学料、授業料、寄宿料免除及び徴収猶予規程（PDF：153KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019D005.pdf" target="_blank">令和2年改正電気通信大学入学料、授業料、寄宿料免除及び徴収猶予規程附則第2項に基づく経過措置に関する要項（PDF：69KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B088.pdf" target="_blank">電気通信大学大学院第一種奨学金返還免除候補者選考規程（PDF：145KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/999910E001.pdf" target="_blank">電気通信大学大学院第一種奨学金返還免除候補者及び内定候補者選考基準<!--電気通信大学大学院第一種奨学金返還免除候補者選考基準-->（PDF：101KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011B044.pdf" target="_blank">電気通信大学UEC修学支援奨学金規程（PDF：76KB）</a></li>2023.03.27削除-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019B023.pdf" target="_blank">電気通信大学UEC成績優秀者特待生制度規程（PDF：57KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019B024.pdf" target="_blank">電気通信大学UEC学域奨学金規程（PDF：148KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2017B002.pdf" target="_blank">電気通信大学大学院博士後期課程奨学金規程（PDF：135KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2017B003.pdf" target="_blank">電気通信大学大学院博士前期課程奨学金規程（PDF：123KB）</a></li>
+<!-- 2017.6.7追加 -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014C018.pdf" target="_blank">電気通信大学入学料・授業料未払いによる除籍に関する細則（PDF：109KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/999910B006.pdf" target="_blank">電気通信大学学生表彰規程（PDF：118KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/999910C001.pdf" target="_blank">電気通信大学学生表彰実施細則（PDF：83KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011B071.pdf" target="_blank">電気通信大学学生の懲戒に関する規程（PDF：163KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011H004.pdf" target="_blank">学生の懲戒に関する指針（PDF：112KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2017C001.pdf" target="_blank">電気通信大学学生の懲戒処分による退学等の手続に関する細則（PDF：124KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D024.pdf" target="_blank">電気通信大学遺失物取扱要項（PDF：59KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D025.pdf" target="_blank">電気通信大学学生掲示等取扱要項（PDF：51KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D026.pdf" target="_blank">電気通信大学課外活動団体に関する要項（PDF：127KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/999910B007.pdf" target="_blank">電気通信大学学生寮運営規程（PDF：141KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016C002.pdf" target="_blank">電気通信大学100周年キャンパス学生宿舎使用細則（PDF：71KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/999910B008.pdf" target="_blank">電気通信大学大学会館運営規程（PDF：11KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/999910B009.pdf" target="_blank">電気通信大学体育施設運営規程（PDF：11KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/999910B010.pdf" target="_blank">電気通信大学課外活動共用施設運営規程（PDF：11KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/999910B011.pdf" target="_blank">電気通信大学浜見寮運営規程（PDF：11KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/999910B012.pdf" target="_blank">電気通信大学菅平宇宙電波観測所宿泊施設運営規程（PDF：11KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D019.pdf" target="_blank">電気通信大学学生準則（PDF：58KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016D005.pdf" target="_blank">国立大学法人電気通信大学国民年金保険料学生納付特例の申請に関する事務取扱要項（PDF：57KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B114.pdf" target="_blank">電気通信大学学生等海外派遣事業の実施に関する規程（PDF：62KB）</a></li>
+
+</ul>
+
+
+<ul class="toPageTop">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+</ul>
+<!-- /.sectionH2 --></div>
+
+<div id="p11" class="section">
+<h2 class="hdTxt01-01"><span>第11編 部局</span></h2>
+
+<ul class="stepNav02 stepNav02L">
+<li><a href="#p12">第1章 学部</a></li>
+<li><a href="#p13">第2章 大学院</a></li>
+<li><a href="#p14">第3章 共創進化スマート社会実現推進機構<!--コヒーレント光量子科学研究機構--></a></li>
+<li><a href="#p15">第4章 教育研究センター等</a></li>
+<li><a href="#p16">第5章 スーパー連携大学院推進室</a></li>
+<li><a href="#p17">第6章 グローバル化教育機構</a></li>
+<li><a href="#p18">第7章 附属図書館</a></li>
+<li><a href="#p19">第8章 保健管理センター</a></li>
+<li><a href="#p20">第9章 全学教育・学生支援機構</a></li>
+<!--<li><a href="#p21">第10章 研究推進機構</a></li>-->
+<li><a href="#p22">第10章 教育研究支援センター等</a></li>
+</ul>
+
+<div id="p12" class="section">
+<h3 class="hdTxt02"><span>第1章 学部</span></h3>
+
+<div class="section first">
+<h4 class="hdTxt03"><span>第1節 情報理工学域</span></h4>
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015B025.pdf" target="_blank">電気通信大学情報理工学域教授会規程（PDF：123KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015C010.pdf" target="_blank">電気通信大学情報理工学域教授会細則（PDF：47KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015B026.pdf" target="_blank">電気通信大学情報理工学域代議員会規程（PDF：122KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B038.pdf" target="_blank">電気通信大学情報理工学域長選考規程（PDF：63KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016F001.pdf" target="_blank">電気通信大学情報理工学域長候補者選考実施内規（PDF：59KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015B027.pdf" target="_blank">電気通信大学情報理工学域副学域長に関する規程（PDF：52KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015B028.pdf" target="_blank">電気通信大学情報理工学域類長及び先端工学基礎課程長等に関する規程（PDF：54KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015B029.pdf" target="_blank">電気通信大学情報理工学域予算委員会規程（PDF：52KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015B030.pdf" target="_blank">電気通信大学情報理工学域教育委員会規程（PDF：56KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015B031.pdf" target="_blank">電気通信大学情報理工学域入学試験委員会規程（PDF：53KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B038.pdf" target="_blank">電気通信大学共通教育部長等に関する規程（PDF：53KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B037.pdf" target="_blank">電気通信大学共通教育部会議規程（PDF：56KB）</a></li>
+</ul>
+<!-- /.sectionH4 --></div>
+
+<div class="section">
+<h4 class="hdTxt03"><span>第2節 情報理工学部</span></h4>
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B035.pdf" target="_blank">電気通信大学情報理工学部教授会規程（PDF：124KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B040.pdf" target="_blank">電気通信大学情報理工学部教育委員会規程（PDF：55KB）</a></li>
+</ul>
+<!-- /.sectionH4 --></div>
+
+<!--<div class="section">
+<h4 class="hdTxt03"><span>第3節 電気通信学部</span></h4>
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999111B008.pdf" target="_blank">電気通信大学電気通信学部教授会規程（PDF：56KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B094.pdf" target="_blank">電気通信大学電気通信学部教育委員会規程（PDF：57KB）</a></li>
+</ul>-->
+<!-- /.sectionH4 --><!--</div>--><!-- 2019.04.25削除 -->
+
+<!-- /.sectionH3 --></div>
+
+
+<div id="p13" class="section">
+<h3 class="hdTxt02"><span>第2章 大学院</span></h3>
+
+<div class="section first">
+<h4 class="hdTxt03"><span>第1節 大学院情報理工学研究科</span></h4>
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B042.pdf" target="_blank">電気通信大学大学院情報理工学研究科教授会規程（PDF：126KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009C009.pdf" target="_blank">電気通信大学大学院情報理工学研究科教授会細則（PDF：7KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B043.pdf" target="_blank">電気通信大学大学院情報理工学研究科代議員会規程（PDF：124KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B106.pdf" target="_blank">電気通信大学大学院情報理工学研究科長選考規程（PDF：64KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016F002.pdf" target="_blank">電気通信大学大学院情報理工学研究科長候補者選考実施内規（PDF：60KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010C025.pdf" target="_blank">電気通信大学大学院情報理工学研究科長選考実施細則（PDF：14KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B108.pdf" target="_blank">電気通信大学大学院情報理工学研究科副研究科長に関する規程（PDF：53KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B107.pdf" target="_blank">電気通信大学大学院情報理工学研究科評議員選考規程（PDF：10KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999112H001.pdf" target="_blank">電気通信大学大学院情報理工学研究科評議員候補者選出に関する申合せ（PDF：10KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B044.pdf" target="_blank">電気通信大学大学院情報理工学研究科専攻長等に関する規程（PDF：46KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B047.pdf" target="_blank">電気通信大学大学院情報理工学研究科予算委員会規程（PDF：53KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B045.pdf" target="_blank">電気通信大学大学院情報理工学研究科教育委員会規程（PDF：56KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B046.pdf" target="_blank">電気通信大学大学院情報理工学研究科入学試験委員会規程（PDF：52KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B044.pdf" target="_blank">電気通信大学大学院情報理工学研究科連携教育部規程（PDF：66KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999112F001.pdf" target="_blank">電気通信大学大学院情報理工学研究科担当教員資格審査内規（PDF：73KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014G002.pdf" target="_blank">電気通信大学大学院情報理工学研究科担当教員資格審査における教育研究業績判定基準等の申合せ（PDF：69KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015B019.pdf" target="_blank">平成28年4月就任予定の電気通信大学大学院情報理工学研究科長等の選考等における特例に関する規程（PDF：75KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2018B062.pdf" target="_blank">東京外国語大学大学院総合国際学研究科・東京農工大学大学院工学府・電気通信大学大学院情報理工学研究科共同サステイナビリティ研究専攻連絡協議会規程（PDF：57KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2018B063.pdf" target="_blank">東京外国語大学大学院総合国際学研究科・東京農工大学大学院工学府・電気通信大学大学院情報理工学研究科共同サステイナビリティ研究専攻会議規程（PDF：60KB）</a></li>
+</ul>
+<!-- /.sectionH4 --></div>
+
+<div class="section">
+<h4 class="hdTxt03"><span>第2節 大学院情報システム学研究科</span></h4>
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999112B013.pdf" target="_blank">電気通信大学大学院情報システム学研究科教授会規程（PDF：60KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999112B014.pdf" target="_blank">電気通信大学大学院情報システム学研究科長選考規程（PDF：66KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999112B015.pdf" target="_blank">電気通信大学大学院情報システム学研究科副研究科長選考規程（PDF：50KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999112G002.pdf" target="_blank">電気通信大学大学院情報システム学研究科長選考規程に関する申合せ（PDF：41KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999112B016.pdf" target="_blank">電気通信大学大学院情報システム学研究科専攻長に関する規程（PDF：51KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999112F002.pdf" target="_blank">電気通信大学大学院情報システム学研究科専攻主任会議内規（PDF：45KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999112F003.pdf" target="_blank">電気通信大学大学院情報システム学研究科専攻会議内規（PDF：55KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999112G003.pdf" target="_blank">電気通信大学大学院情報システム学研究科担当教員資格審査に関する申合せ（PDF：63KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999112B017.pdf" target="_blank">電気通信大学大学院情報システム学研究科教務委員会規程（PDF：52KB）</a></li>
+</ul>
+<!-- /.sectionH4 --></div>
+
+<!--<div class="section">
+<h4 class="hdTxt03"><span>第3節 大学院電気通信学研究科</span></h4>
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999112B007.pdf" target="_blank">電気通信大学大学院電気通信学研究科委員会規程（PDF：64KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999112B008.pdf" target="_blank">電気通信大学大学院電気通信学研究科教育委員会規程（PDF：13KB）</a></li>
+</ul>--><!-- 2018-04.26削除 -->
+<!-- /.sectionH4 --><!--</div>-->
+
+<ul class="toPageTop toCategoryTop clearfix">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+<li><a href="#p11">部局の先頭へ</a></li>
+</ul>
+<!-- /.sectionH3 --></div>
+
+<div id="p14" class="section">
+<h3 class="hdTxt02"><span>第3章 共創進化スマート社会実現推進機構<!--コヒーレント光量子科学研究機構--></span></h3>
+<ul class="linkList01">
+<!--2022.05.10廃止 <li class="pdf"><a href="/about/basicinfo/rule/pdf/2015B034.pdf" target="_blank">電気通信大学コヒーレント光量子科学研究機構規程（PDF：62KB）</a></li>-->
+	<!--2022.04.01新設　-->
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2021B061.pdf" target="_blank">電気通信大学共創進化スマート社会実現推進機構規程（PDF：84KB）</a></li>
+<!--2022.04.01新設 -->
+</ul>
+<ul class="toPageTop toCategoryTop clearfix">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+<li><a href="#p11">部局の先頭へ</a></li>
+</ul>
+<!-- /.sectionH3 --></div>
+
+
+
+<div id="p15" class="section">
+<h3 class="hdTxt02"><span>第4章 教育研究センター等</span></h3>
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999113B009.pdf" target="_blank">電気通信大学レーザー新世代研究センター規程（PDF：124KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999113B010.pdf" target="_blank">電気通信大学レーザー新世代研究センター運営委員会規程（PDF：51KB）</a></li>
+<!--2023.01.13削除<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999113B011.pdf" target="_blank">電気通信大学レーザー新世代研究センター長選考規程（PDF：11KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999113C001.pdf" target="_blank">電気通信大学レーザー新世代研究センター共同研究員取扱細則（PDF：62KB）</a></li>
+
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99991110B004.pdf" target="_blank">電気通信大学先端ワイヤレス・コミュニケーション研究センター規程（PDF：212KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99991110B005.pdf" target="_blank">電気通信大学先端ワイヤレス・コミュニケーション研究センター運営委員会規程（PDF：59KB）</a></li>
+<!--2023.01.13削除<li class="pdf"><a href="/about/basicinfo/rule/pdf/99991110B006.pdf" target="_blank">電気通信大学先端ワイヤレス・コミュニケーション研究センター長選考規程（PDF：58KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B092.pdf" target="_blank">電気通信大学宇宙・電磁環境研究センター規程（PDF：119KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B093.pdf" target="_blank">電気通信大学宇宙・電磁環境研究センター運営委員会規程（PDF：12KB）</a></li>
+<!--2023.01.13削除<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B094.pdf" target="_blank">電気通信大学宇宙・電磁環境研究センター長選考規程（PDF：11KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012B136.pdf" target="_blank">電気通信大学脳・医工学研究センター規程（PDF：121KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012B137.pdf" target="_blank">電気通信大学脳・医工学研究センター運営委員会規程（PDF：48KB）</a></li>
+<!--2023.01.13削除<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012B138.pdf" target="_blank">電気通信大学脳・医工学研究センター長選考規程（PDF：44KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B022.pdf" target="_blank">電気通信大学i‐パワードエネルギー・システム研究センター規程（PDF：126KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B023.pdf" target="_blank">電気通信大学i‐パワードエネルギー・システム研究センター運営委員会規程（PDF：51KB）</a></li>
+<!--2023.01.13削除<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B024.pdf" target="_blank">電気通信大学i‐パワードエネルギー・システム研究センター長選考規程（PDF：57KB）</a></li>-->
+	
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B087.pdf" target="_blank">電気通信大学量子科学研究センター規程（PDF：121KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B088.pdf" target="_blank">電気通信大学量子科学研究センター運営委員会規程（PDF：49KB）</a></li>
+<!--2023.01.13削除<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B089.pdf" target="_blank">電気通信大学量子科学研究センター長選考規程（PDF：56KB）</a></li>-->
+		
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B009.pdf" target="_blank">電気通信大学人工知能先端研究センター規程（PDF：130KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B010.pdf" target="_blank">電気通信大学人工知能先端研究センター運営委員会規程（PDF：51KB）</a></li>
+<!--2023.01.13削除<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B011.pdf" target="_blank">電気通信大学人工知能先端研究センター長選考規程（PDF：46KB）</a></li>-->
+<!-- 2017.03.10 -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B100.pdf" target="_blank">電気通信大学ナノトライボロジー研究センター規程（PDF：120KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B101.pdf" target="_blank">電気通信大学ナノトライボロジー研究センター運営委員会規程（PDF：51KB）</a></li>
+<!--2023.01.13削除<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B102.pdf" target="_blank">電気通信大学ナノトライボロジー研究センター長選考規程（PDF：40KB）</a></li>-->
+<!-- 2022.05.17新設 -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2022B022.pdf" target="_blank">電気通信大学国際社会実装センター規程（PDF：125KB）</a></li>
+<!-- 2022.05.17新設 -->
+	<!-- 2022.12.22新設 -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2022B062.pdf" target="_blank">電気通信大学メタネットワーキング研究センター規程（PDF：70KB）</a></li>
+<!-- 2022.12.22新設 -->
+	
+<!-- 2017.03.10 -->
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B086.pdf" target="_blank">電気通信大学先端領域教育研究センター規程（PDF：54KB）</a></li>
+-->
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B087.pdf" target="_blank">電気通信大学先端領域教育研究センター運営委員会規程（PDF：53KB）</a></li>
+-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B021.pdf" target="_blank">電気通信大学における競争的資金等による教育研究センター設置に関する規程（PDF：62KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009C006.pdf" target="_blank">電気通信大学における競争的資金等による教育研究センター設置に関する手続細則（PDF：52KB）</a></li>
+</ul>
+<ul class="toPageTop toCategoryTop clearfix">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+<li><a href="#p11">部局の先頭へ</a></li>
+</ul>
+<!-- /.sectionH3 --></div>
+
+
+<div id="p16" class="section">
+<h3 class="hdTxt02"><span>第5章 スーパー連携大学院推進室</span></h3>
+
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2013B084.pdf" target="_blank">電気通信大学スーパー連携大学院推進室規程（PDF：59KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2013C021.pdf" target="_blank">電気通信大学スーパー連携大学院教育プログラム運営委員会細則（PDF：53KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2013C022.pdf" target="_blank">電気通信大学スーパー連携大学院首都圏地域コア運営委員会細則（PDF：61KB）</a></li>--><!-- 2021.04.02削除 -->
+</ul>
+
+<ul class="toPageTop toCategoryTop clearfix">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+<li><a href="#p11">部局の先頭へ</a></li>
+</ul>
+<!-- /.sectionH3 --></div>
+
+
+
+<div id="p17" class="section">
+<h3 class="hdTxt02"><span>第6章 グローバル化教育機構</span></h3>
+
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2013B023.pdf" target="_blank">電気通信大学グローバル化教育機構規程（PDF：125KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2013B024.pdf" target="_blank">電気通信大学実践的コミュニケーション教育推進室規程（PDF：124KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2013B025.pdf" target="_blank">電気通信大学IT活用国際ものづくり教育推進室規程（PDF：127KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2013B026.pdf" target="_blank">電気通信大学国際PBL教育推進室規程（PDF：121KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B091.pdf" target="_blank">電気通信大学グローバル・アライアンス・ラボ推進室規程（PDF：68KB）</a></li> 2023.02.20廃止-->
+</ul>
+
+<ul class="toPageTop toCategoryTop clearfix">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+<li><a href="#p11">部局の先頭へ</a></li>
+</ul>
+<!-- /.sectionH3 --></div>
+
+
+<div id="p18" class="section">
+<h3 class="hdTxt02"><span>第7章 附属図書館</span></h3>
+
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999116B001.pdf" target="_blank">電気通信大学附属図書館規程（PDF：14KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999116B002.pdf" target="_blank">電気通信大学図書館委員会規程（PDF：62KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B106.pdf" target="_blank">電気通信大学附属図書館利用規程（PDF：93KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999116B004.pdf" target="_blank">電気通信大学文献複写規程（PDF：130KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019B007.pdf" target="_blank">電気通信大学附属図書館UEC Ambient Intelligence Agora運営委員会規程（PDF：61KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019D001.pdf" target="_blank">電気通信大学附属図書館UEC Ambient Intelligence Agora施設・設備利用要項（PDF：117KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019D002.pdf" target="_blank">電気通信大学附属図書館UEC Ambient Intelligence Agoraセンシングシステム運用要項（PDF：55KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019D003.pdf" target="_blank">電気通信大学附属図書館UEC Ambient Intelligence Agoraデータ利用要項（PDF：133KB）</a></li>
+</ul>
+
+<ul class="toPageTop toCategoryTop clearfix">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+<li><a href="#p11">部局の先頭へ</a></li>
+</ul>
+<!-- /.sectionH3 --></div>
+
+
+<div id="p19" class="section">
+<h3 class="hdTxt02"><span>第8章 保健管理センター</span></h3>
+
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999117B001.pdf" target="_blank">電気通信大学保健管理センター規程（PDF：121KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999117B002.pdf" target="_blank">電気通信大学保健管理センター運営委員会規程（PDF：50KB）</a></li>
+<!--2023.01.13削除<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999117B003.pdf" target="_blank">電気通信大学保健管理センター長選考規程（PDF：49KB）</a></li>
+-->	<!-- 2021.01.18 新規追加 -->
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2020B054.pdf" target="_blank">電気通信大学保健管理センター・学生支援センター連絡会議規程（PDF：47KB）</a></li>
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2020D013.pdf" target="_blank">電気通信大学保健管理センター・学生支援センター連絡会議学生支援専門スタッフ連絡会要項（PDF：43KB）</a></li>
+	<!-- 2021.01.18 新規追加 -->
+</ul>
+
+<ul class="toPageTop toCategoryTop clearfix">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+<li><a href="#p11">部局の先頭へ</a></li>
+</ul>
+<!-- /.sectionH3 --></div>
+
+
+<div id="p20" class="section">
+<h3 class="hdTxt02"><span>第9章 全学教育・学生支援機構</span></h3>
+
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B022.pdf" target="_blank">電気通信大学全学教育・学生支援機構規程（PDF：118KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B023.pdf" target="_blank">電気通信大学全学教育・学生支援機構運営委員会規程（PDF：48KB）</a></li>--><!-- 2022.06.23廃止 -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B024.pdf" target="_blank">電気通信大学大学教育センター規程<!--電気通信大学全学教育・学生支援機構大学教育センター規程-->（PDF：138KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B025.pdf" target="_blank">電気通信大学大学教育センター企画開発会議規程<!--電気通信大学全学教育・学生支援機構大学教育センター企画開発会議規程-->（PDF：110KB）</a></li>
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B135.pdf" target="_blank">電気通信大学学生支援センター規程（PDF：153KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B135.pdf" target="_blank">電気通信大学全学教育・学生支援機構学生支援センター規程（PDF：153KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B136.pdf" target="_blank">電気通信大学全学教育・学生支援機構学生支援センター会議規程（PDF：71KB）</a></li>--><!-- 2022.06.23廃止 -->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010D025.pdf" target="_blank">学生の事件・事故等防止専門部会設置要項（PDF：112KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010D026.pdf" target="_blank">修学支援奨学金専門部会設置要項（PDF：106KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2015D001.pdf" target="_blank">障害学生支援専門部会設置要項（PDF：111KB）</a></li>
+<!--2022.04.01削除<li class="pdf"><a href="/about/basicinfo/rule/pdf/2019D008.pdf" target="_blank">学生安全教育支援専門部会要項（PDF：53KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B028.pdf" target="_blank">電気通信大学アドミッションセンター規程<!--電気通信大学全学教育・学生支援機構アドミッションセンター規程-->（PDF：127KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B029.pdf" target="_blank">電気通信大学アドミッションセンター会議規程<!--電気通信大学全学教育・学生支援機構アドミッションセンター会議規程-->（PDF：116KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2022B026.pdf" target="_blank">電気通信大学キャリア支援センター規程（PDF：153KB）</a></li>
+</ul>
+
+<ul class="toPageTop toCategoryTop clearfix">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+<li><a href="#p11">部局の先頭へ</a></li>
+</ul>
+<!-- /.sectionH3 --></div>
+
+
+
+<div id="p22" class="section">
+<h3 class="hdTxt02"><span>第10章 教育研究支援センター等</span></h3>
+
+<ul class="linkList01">
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2005B008.pdf" target="_blank">電気通信大学情報基盤センター規程（PDF：64KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2005B010.pdf" target="_blank">電気通信大学情報基盤センター運営委員会規程（PDF：55KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2005F003.pdf" target="_blank">電気通信大学情報基盤センター教育研究設備利用内規（PDF：89KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B030.pdf" target="_blank">電気通信大学実験実習支援センター規程（PDF：13KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B031.pdf" target="_blank">電気通信大学実験実習支援センター運営委員会規程（PDF：13KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B032.pdf" target="_blank">電気通信大学ものつくりセンター規程（PDF：15KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B033.pdf" target="_blank">電気通信大学ものつくりセンター運営委員会規程（PDF：12KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B131.pdf" target="_blank">電気通信大学eラーニングセンター規程（PDF：136KB）</a></li>
+<!--2023.01.13削除<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B132.pdf" target="_blank">電気通信大学eラーニングセンター運営委員会規程（PDF：65KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B122.pdf" target="_blank">電気通信大学国際教育センター規程（PDF：70KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004B123.pdf" target="_blank">電気通信大学国際教育センター運営委員会規程（PDF：48KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004C026.pdf" target="_blank">電気通信大学国際センター兼務教員に関する細則（PDF：10KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D035.pdf" target="_blank">電気通信大学国際教育センター学部入学前予備教育コース要項（PDF：63KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D036.pdf" target="_blank">電気通信大学国際教育センター日本語研修コース要項（PDF：67KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D037.pdf" target="_blank">電気通信大学国際教育センター短期留学プログラム要項（PDF：78KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2004D038.pdf" target="_blank">電気通信大学国際教育センター短期留学プログラム履修要項（PDF：71KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99991111B013.pdf" target="_blank">電気通信大学研究設備センター規程（PDF：62KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99991111B014.pdf" target="_blank">電気通信大学研究設備センター運営委員会規程（PDF：53KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2012B115.pdf" target="_blank">電気通信大学研究設備センターにおける外部からの依頼測定等の実施に関する規程（PDF：274KB）</a></li>
+
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999119B007.pdf" target="_blank">電気通信大学産学官連携センター規程（PDF：145KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2018B060.pdf" target="_blank">電気通信大学産学官連携センターエクステンション推進支援室規程（PDF：60KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/9999119B008.pdf" target="_blank">電気通信大学産学官連携センター運営委員会規程（PDF：56KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2009B087.pdf" target="_blank">電気通信大学産学官連携センター知的財産評価委員会規程（PDF：52KB）</a></li>
+<!--2022.04.01廃止<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011B045.pdf" target="_blank">電気通信大学ギガビット研究会規程（PDF：10KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011H003.pdf" target="_blank">電気通信大学産学官連携センター「ギガビット研究会」規約（PDF：108KB）</a></li>　-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2011G003.pdf" target="_blank">電気通信大学発ベンチャー認定に関する申合せ（PDF：12KB）</a></li>
+<!--2022.05.10廃止 <li class="pdf"><a href="/about/basicinfo/rule/pdf/2018B006.pdf" target="_blank">電気通信大学UECアライアンスセンター規程（PDF：64KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99991111B018.pdf" target="_blank">電気通信大学社会連携センター規程（PDF：62KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99991111B019.pdf" target="_blank">電気通信大学社会連携センター運営委員会規程（PDF：48KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B005.pdf" target="_blank">電気通信大学社会連携センターに置く室に係る規程（PDF：46KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2008B009.pdf" target="_blank">電気通信大学広報センター規程（PDF：53KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99991111B021.pdf" target="_blank">電気通信大学広報センター運営委員会規程（PDF：48KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2013B031.pdf" target="_blank">電気通信大学UEC深セン教育研究支援センター規程（PDF：62KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B008.pdf" target="_blank">電気通信大学UEC深セン教育研究支援センター運営委員会規程（PDF：61KB）</a></li>-->
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2013B032.pdf" target="_blank">電気通信大学UEC ASEAN教育研究支援センター規程（PDF：68KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2014B009.pdf" target="_blank">電気通信大学UEC ASEAN教育研究支援センター運営委員会規程（PDF：52KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016C005.pdf" target="_blank">電気通信大学UEC ASEAN教育研究支援センター技術相談室細則（PDF：86KB）</a></li>
+
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2017B009.pdf" target="_blank">電気通信大学UEC中国教育研究支援センター規程（PDF：51KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2017B010.pdf" target="_blank"> 電気通信大学UEC中国教育研究支援センター運営委員会規程（PDF：51KB）</a></li>
+<!--2023.09.13news --><li class="pdf"><a href="/about/basicinfo/rule/pdf/2023B017.pdf" target="_blank"> 電気通信大学環境安全衛生管理センター規程（PDF：171KB）</a></li>
+	<li class="pdf"><a href="/about/basicinfo/rule/pdf/2022B048.pdf" target="_blank"> 電気通信大学データ教育センター規程（PDF：133KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99991111B023.pdf" target="_blank">電気通信大学UECコミュニケーションミュージアム規程（PDF：56KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99991111B024.pdf" target="_blank">電気通信大学UECコミュニケーションミュージアム運営委員会規程（PDF：48KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2016B115.pdf" target="_blank">電気通信大学UECコミュニケーションミュージアム学術調査員規程（PDF：63KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99991111B025.pdf" target="_blank">電気通信大学国際交流会館規程（PDF：97KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/99991111B026.pdf" target="_blank">電気通信大学創立80周年記念会館規程（PDF：13KB）</a></li>
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2007B025.pdf" target="_blank">電気通信大学船井記念棟の管理運営に関する規程（PDF：10KB）</a></li>-->
+<!--<li class="pdf"><a href="/about/basicinfo/rule/pdf/2007B026.pdf" target="_blank">電気通信大学船井記念棟運営委員会規程（PDF：10KB）</a></li>-->
+
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010B117.pdf" target="_blank">電気通信大学西11号館（イノベーティブ研究棟）の管理運営に関する規程（PDF：55KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010C028.pdf" target="_blank">電気通信大学西11号館（イノベーティブ研究棟）インキュベーション施設管理運営細則（PDF：92KB）</a></li>
+<li class="pdf"><a href="/about/basicinfo/rule/pdf/2010D020.pdf" target="_blank">電気通信大学西11号館（イノベーティブ研究棟）インキュベーション施設使用料等徴収要項（PDF：68KB）</a></li>
+
+</ul>
+
+<ul class="toPageTop toCategoryTop clearfix">
+<li><a href="#pageTop">このページの先頭へ</a></li>
+<li><a href="#p11">部局の先頭へ</a></li>
+</ul>
+<!-- /.sectionH3 --></div>
+
+<!-- /.sectionH2 --></div>
+
+<!-- /.section first --></div>
+<!-- /.sectionH1 --></article>
+
+<!-- ▲／コンテンツ end -->
+<!-- /#primary --></div>
+
+
+<div id="secondary">
+<!-- ▼ローカルナビゲーション start -->
+<nav id="localNav">
+<h2 class="category"><a href="/about/">大学案内</a></h2>
+<div class="catNav">
+<ul>
+<li><a href="/about/president/message/" title="学長室から（学長挨拶）">学長室から</a></li>
+<li><a href="/about/mission/" title="理念（理念・基本方針）">理念・基本方針</a></li>
+<li><a href="/about/profile/" title="特色と魅力（大学概要）">大学概要</a></li>
+<li class="open"><a href="/about/basicinfo/" title="大学基本情報">大学基本情報</a>
+<ul>
+<li><a href="/about/basicinfo/"><span>組織図</span></a></li>
+<li><a href="/about/basicinfo/board.html"><span>役員会</span></a></li>
+<li><a href="/about/basicinfo/admin_council.html"><span>経営協議会</span></a></li>
+<li><a href="/about/basicinfo/edu_council.html"><span>教育研究評議会</span></a></li>
+<li><a href="/about/basicinfo/selection.html"><span>学長選考・監察会議</span></a></li>
+<!--<li><a href="/about/basicinfo/professor/"><span>特別栄誉教授</span></a></li>
+<li><a href="/about/basicinfo/visiting_professor/"><span>特別客員教授</span></a></li>
+<li><a href="/about/basicinfo/emeritus_prof.html"><span>名誉教授</span></a></li> 20210118 特別栄誉教授、特区別客員教授、名誉教授を大学概要へ移動-->
+<li><a href="/about/basicinfo/board2.html"><span>大学役職者</span></a></li>
+<li><a href="/about/basicinfo/faculty_member.html"><span>教員一覧</span></a></li>
+<li><a href="/about/basicinfo/number_staff.html"><span>役職員数</span></a></li>
+<li><a href="/about/basicinfo/number_student/"><span>学生数</span></a></li>
+<li><a href="/about/basicinfo/rule/"><span>規則集</span></a></li>
+	<li><a href="/about/basicinfo/governance_code.html"><span>国立大学法人ガバナンス・コード</span></a></li>
+	<li><a href="/about/basicinfo/annual_plan.html"><span>年度計画・年度実績</span></a></li>
+</ul>
+</li>
+<li><a href="/about/activity/sokushinhi/" title="研究大学強化促進事業（取り組み・活動）">取り組み・活動</a></li>
+<li><a href="/about/publicinfo/education.html" title="学校教育法施行規則（法定公開情報）">法定公開情報</a></li>
+<li><a href="/about/disclosure/corporate/" title="保有する法人文書の開示について（情報保護・開示請求）">情報保護・開示請求</a></li>
+<li><a href="/about/publicity/media_release/" title="メディアリリース（広報）">広報</a></li>
+<li><a href="/about/advertisement/" title="教職員公募（公募情報）">公募情報</a></li>
+<li><a href="/about/faq/">よくある質問</a></li>
+	<li><a href="/about/certificate/">各種証明書の申請</a></li>
+</ul>
+</div>
+</nav>
+
+
+<!-- ▼関連リンク start -->
+<!--<dl class="relatedNav">
+<dt>関連リンク</dt>
+<dd>
+<ul>
+<li><a href="/about/advertisement/">教職員公募</a></li>
+</ul>
+</dd>
+</dl>-->
+<!-- ▲／関連リンク end -->
+<!-- ▲／ローカルナビゲーション end -->
+<!-- /#secondary --></div>
+<!-- /#main --></div>
+
+
+<footer id="footer">
+<div class="inner">
+<dl class="assistNav01 sp-fix">
+<dt>訪問者別メニュー</dt>
+<dd>
+<ul>
+<li class="nav01"><a href="/prospect/">受験生の方</a></li>
+<li class="nav02"><a href="/students/">在学生の方</a></li>
+<li class="nav03"><a href="/alumni/">卒業生の方</a></li>
+<li class="nav04"><a href="/corpo/">企業・研究機関の方</a></li>
+<li class="nav05"><a href="/public/">一般の方</a></li>
+<li class="nav06"><a href="/eng/">English</a></li>
+</ul>
+</dd>
+</dl>
+<dl class="assistNav02 sp-fix">
+<dt>サブメニュー</dt>
+<dd>
+<ul>
+<li class="nav01"><a href="/about/profile/access/">交通・学内マップ</a></li>
+<li class="nav02"><a href="/inquiry/">お問い合わせ</a></li>
+<li class="nav03"><a href="/request/">入試資料請求</a></li>
+<li class="nav04"><a href="/sitemap/">サイトマップ</a></li>
+<li class="nav05"><a href="/campus/welfare/safety/emergency.html">事故発生時の連絡先</a></li>
+<li class="nav05"><a href="/help/about/">このサイトについて</a></li>
+<li class="nav06"><a href="/privacy/">プライバシーポリシー</a></li>
+</ul>
+</dd>
+</dl>
+<dl class="assistNav01 pc-fix">
+<dt>このサイトについて</dt>
+<dd>
+<ul>
+<li><a href="/campus/welfare/safety/emergency.html">事故発生時の連絡先</a></li>
+<li><a href="/help/about/">このサイトについて</a></li>
+<li><a href="/privacy/">プライバシーポリシー</a></li>
+</ul>
+</dd>
+</dl>
+<p class="toPageTop"><a href="#pageTop">TOP</a></p>
+
+<address>
+<span class="school">国立大学法人電気通信大学</span>
+<span class="address">〒182-8585　東京都調布市調布ケ丘一丁目5番地1</span>
+<p style="font-size: 12px; padding-top: 5px;">法人番号：5012405001286</p>
+</address>
+
+<dl class="assistNav02 pc-fix">
+<dt>サブメニュー</dt>
+<dd>
+<ul>
+<li class="nav01"><a href="/about/profile/access/">交通・学内マップ</a></li>
+<li class="nav02"><a href="/inquiry/">お問い合わせ</a></li>
+<li class="nav03"><a href="/sitemap/">サイトマップ</a></li>
+</ul>
+</dd>
+</dl>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-50915448-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-50915448-1');
+</script>
+
+
+<p class="copyright"><span>Copyright &copy; UEC Tokyo. All rights reserved.</span></p>
+<!-- /.inner --></div>
+
+<!-- /#footer --></footer>
+<!-- /.wrapper --></div>
+</body>
+</html>

@@ -1,0 +1,282 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>サーバエラー│電気通信大学</title>
+<meta name="Keywords" content="" />
+<meta name="Description" content="" />
+<meta name="author" content="UEC Tokyo" />
+<meta name="copyright" content="UEC Tokyo All rights reserved." />
+<script type="text/javascript" src="/common/js/jquery.js"></script>
+<script type="text/javascript" src="/common/js/yuga.js"></script>
+<script type="text/javascript" src="/common/js/fontswitch.js"></script>
+<script type="text/javascript" src="/common/js/print.js"></script>
+<link href="/common/css/import.css" rel="stylesheet" type="text/css" media="screen,tv,projection,print" />
+<link href="/common/css/print.css" rel="stylesheet" type="text/css" media="print" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+<link href="/server-error/css/style.css" rel="stylesheet" type="text/css" media="screen,tv,projection,print" />
+</head>
+<body>
+<div class="helpNav">
+<p><a id="pageTop" name="pageTop"></a>このページの先頭です</p>
+<p><a href="#contentTop">メニューを飛ばして本文を読む</a></p>
+</div>
+
+<div id="header">
+<p id="siteTtl"><a href="/"><img src="/common/images/pct_site-logo.gif" width="233" height="40" alt="国立大学法人 電気通信大学" /></a></p>
+
+
+
+
+<!--201710-->
+<style>
+header{
+	/*height: 160px;201710*/
+}
+.kifu{position: absolute;
+    margin: 0;
+    top:42px;
+    right: 0;
+	}
+.kifu2{position: absolute;
+    margin: 0;
+    top:42px;
+    right: 135px;
+	}
+.kifu a{background:#d0478f;padding:4px 10px;
+color:#fff;
+	font-size:15px;line-height:1;
+}
+.kifu a span{
+	background: url(/images_rwd/kifu_arrow.png) no-repeat left center;
+	padding-left:16px;
+	}
+	
+@media all and (-ms-high-contrast:none){
+	.kifu a{background:#d0478f;padding:4px 10px 2px 10px;
+}
+.kifu a span{
+	padding-top:2px;
+	}
+}
+	
+dl.functionNav {
+	top: 76px!important;
+	}
+</style>
+<p class="kifu pc-fix kifu2"><a href="/kikin/about/" onclick="ga('send','event','head_kikin_gaiyo','click','head_kikin_gaiyo', 1);"><span>ご寄附について<!-- 基金の概要 --></span></a></p>
+<p class="kifu pc-fix"><a href="https://fundexapp.jp/uec/entry.php" target="_blank" onclick="ga('send','event','head_kikin_moushikomi','click','head_kikin_moushikomi', 1);"><span>ご寄附の申込</span></a></p>
+<!--/201710-->
+
+
+
+
+<dl id="globalNav">
+<dt>メインメニュー</dt>
+<dd>
+<ul>
+<li class="nav01"><a href="/about/">大学案内</a></li>
+<li class="nav02"><a href="/education/">学域（学部）・大学院</a></li>
+<li class="nav03"><a href="/facilities/">図書館・教育研究センター</a></li>
+<li class="nav04"><a href="/campus/">教育・学生生活</a></li>
+<li class="nav05"><a href="/career/">就職・進路</a></li>
+<li class="nav06"><a href="/research/">研究・産学連携</a></li>
+<li class="nav07"><a href="/exchange/">地域交流・国際交流</a></li>
+<li class="nav08"><a href="/admission/">入試案内</a></li>
+</ul>
+</dd>
+</dl>
+
+<dl id="visitorNav">
+<dt>訪問者別メニュー</dt>
+<dd>
+<ul>
+<li class="prospect"><a href="/prospect/">受験生の方</a></li>
+<li class="students"><a href="/students/">在学生の方</a></li>
+<li class="alumni"><a href="/alumni/">卒業生の方</a></li>
+<li class="corpo"><a href="/corpo/">企業・研究機関の方</a></li>
+<li class="public"><a href="/public/">一般の方</a></li>
+<li class="english"><a href="/eng/">English</a></li>
+<li class="nav05"><a href="https://translate.google.com/translate?sl=ja&tl=en&u=https://www.uec.ac.jp/">多国語翻訳</a></li>
+</ul></dd>
+</dl>
+
+
+<p class="kifu pc-fix kifu2"><a href="/kikin/about/"><span>ご寄附について<!-- 基金の概要 --></span></a></p>
+<p class="kifu pc-fix"><a href="https://fundexapp.jp/uec/entry.php" target="_blank"><span>ご寄附の申込</span></a></p>
+<!--/201710-->
+
+
+
+<dl class="functionNav">
+<dt>サブメニュー</dt>
+<dd>
+<ul>
+<li class="nav01"><a href="/">大学ホーム</a></li>
+<li class="nav02"><a href="/about/profile/access/">交通・学内マップ</a></li>
+<li class="nav03"><a href="/inquiry/">お問い合わせ</a></li>
+<li class="nav04"><a href="/request/">入試資料請求</a></li>
+<li class="nav05"><a href="/sitemap/">サイトマップ</a></li>
+</ul>
+</dd>
+</dl>
+
+<dl class="search">
+<dt>サイト内検索</dt>
+<dd>
+<form action="/search/" id="uec-search-box"> 
+<input name="q" type="text" size="40" class="search-input" /> 
+<input name="sa" type="image" id="btn" src="/common/images/btn_search.gif" class="imgover" alt="検索" /> 
+<input type="hidden" name="cx" value="015592353075022987434:6cbgjaliv4s" /> 
+<input type="hidden" name="cof" value="FORID:11" /> 
+<input type="hidden" name="ie" value="UTF-8" /> 
+<script type="text/javascript" src="/js/csessl.js"></script> 
+<script type="text/javascript" src="https://www.google.com/cse/brand?form=uec-search-box&amp;lang=ja"></script> 
+</form>
+</dd>
+</dl>
+
+<!-- /#header --></div>
+
+
+<div class="helpNav">
+<p><a id="contentTop" name="contentTop"></a>ここから本文です</p>
+</div>
+
+
+<div id="main" class="cl1Main">
+
+<!-- ▼パンくずリスト start -->
+<dl id="topicpath">
+<dt>サイト内の現在位置</dt>
+<dd>
+<ul>
+<li><a href="/">大学ホーム</a></li>
+<li>サーバエラー</li>
+</ul>
+</dd>
+</dl>
+<!-- ▲／パンくずリスト end -->
+
+
+<!-- ▼メインビジュアル start -->
+<div id="catVisual">
+<h1 class="catTtl"><img src="/server-error/images/ttl.jpg" width="900" height="110" alt="" /></h1>
+<!-- /#catVisual --></div>
+<!-- ▲／メインビジュアル end -->
+
+
+<div id="primary">
+<!-- ▼コンテンツ start -->
+<div class="section" id="errorMessage">
+<h2 class="errorTtl">お探しのページが見つかりませんでした</h2>
+<p>アドレスが変更になったか、ページが削除された可能性があります。<br />
+サイトマップやキーワード検索で、該当ページをお探しください。</p>
+
+<div class="section siteMap">
+<h3 class="hdTxt02"><span>コンテンツのご案内</span></h3>
+<dl class="search">
+<dt>サイト内検索</dt>
+<dd>
+<form action="https://www.uec.ac.jp/search/" id="uec-search-box2">
+<input name="q" type="text" size="40" class="search-input" />
+<input name="sa" type="image" id="btn2" src="/common/images/btn_search.gif" class="imgover" alt="検索" />
+<input type="hidden" name="cx" value="015592353075022987434:6cbgjaliv4s" />
+<input type="hidden" name="cof" value="FORID:11" />
+<input type="hidden" name="ie" value="UTF-8" />
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=uec-search-box&amp;lang=ja"></script>
+</form>
+</dd>
+</dl>
+
+<div class="clWrap clWrap-3cl">
+<div class="clBox">
+<ul class="linkList01">
+<li><a href="/about/">大学案内</a></li>
+<li><a href="/department/">学部・大学院</a></li>
+<li><a href="/facilities/">図書館・附属機関</a></li>
+<li><a href="/campus/">教育・学生生活</a></li>
+</ul>
+<!-- /.clBox --></div>
+<div class="clBox">
+<ul class="linkList01">
+<li><a href="/career/">就職・進路</a></li>
+<li><a href="/research/">研究・産学連携</a></li>
+<li><a href="/exchange/">地域交流・国際交流</a></li>
+<li><a href="/admission/">入試案内</a></li>
+</ul>
+<!-- /.clBox --></div>
+<div class="clBox last">
+<ul class="linkList01">
+<li><a href="/prospect/">受験生の方</a></li>
+<li><a href="/students/">在学生の方</a></li>
+<li><a href="/alumni/">卒業生の方</a></li>
+<li><a href="/corpo/">企業・研究機関の方</a></li>
+<li><a href="/public/">一般の方</a></li>
+</ul>
+<!-- /.clBox --></div>
+<!-- /.clWrap --></div>
+
+<ul class="linkList01">
+<li><a href="/sitemap/">サイトマップ</a></li>
+</ul>
+<!-- /.sectionH3 --></div>
+<!-- /.sectionH2 --></div>
+
+<!-- ▲／コンテンツ end -->
+<!-- /#primary --></div>
+
+<!-- /#main --></div>
+
+<div id="footer">
+<div class="inner">
+<dl class="assistNav01">
+<dt>このサイトについて</dt>
+<dd>
+<ul>
+<li><a href="/help/about/">このサイトについて</a></li>
+<li><a href="/privacy/">プライバシーポリシー</a></li>
+</ul>
+</dd>
+</dl>
+
+<p class="toPageTop"><a href="#pageTop">TOP</a></p>
+
+<address>
+<span class="school">国立大学法人電気通信大学</span>
+<span class="address">〒182-8585　東京都調布市調布ケ丘一丁目5番地1</span>
+<p style="font-size: 12px; padding-top: 5px;">法人番号：5012405001286</p>
+</address>
+
+<dl class="assistNav02">
+<dt>サブメニュー</dt>
+<dd>
+<ul>
+<li class="nav01"><a href="/about/profile/access/">交通・学内マップ</a></li>
+<li class="nav02"><a href="/inquiry/">お問い合わせ</a></li>
+<li class="nav03"><a href="/sitemap/">サイトマップ</a></li>
+</ul>
+</dd>
+</dl>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-50915448-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-50915448-1');
+</script>
+
+
+<p class="copyright"><span>Copyright &copy; UEC Tokyo. All rights reserved.</span></p>
+<!-- /.inner --></div>
+
+<!-- /#footer --></div>
+
+</body>
+</html>
